@@ -1,6 +1,6 @@
 # Sparkbox Apprenticeship Guide
 
-Sparkbox is a team that values education. We offer paid apprenticeships because we love what we do, we want to help create new talent, and we genuinely care about the future of the web. Expect to be challenged. Expect high expectations. Expect to get hit with a few Nerf darts.
+Sparkbox is a team that values education. We offer paid apprenticeship at our Dayton office because we love what we do, we want to help create new talent, and we genuinely care about the future of the web.
 
 We hate the idea of keeping our apprenticeship progam to ourselves, though. If you're not in our area, no problem! We're outlining our entire program here for you to do on your own - or to introduce to your team. If you're crazy about the idea of becoming a well-rounded web developer, yet aren't quite sure where to start, we think you've found just the right place to begin.
 
@@ -25,7 +25,6 @@ Otherwise, this guide should provide you with everything you need to get started
 Enough jabber. Let's get going.
 
 [![Internet is Exciting][exciting]]
-
 
 [local]: https://maps.google.com/maps?q=123+Webster+St.,+Studio+2,+Dayton,+OH+45402&hl=en&sll=40.365277,-82.669252&sspn=4.53679,8.811035&hnear=123+Webster+St,+Dayton,+Montgomery,+Ohio+45402&t=m&z=16
 [Submit an Application]: https://docs.google.com/a/heysparkbox.com/spreadsheet/viewform?formkey=dG9LNXU2M05MZEVnUE4teHJqeW9VSUE6MQ#gid=0
