@@ -1,3 +1,5 @@
+**Disclaimer:** *This guide is in early stages of development. We are slowly translating our Sparkbox apprenticeship content into a useful format here on GitHub.*
+
 # Sparkbox Apprenticeship Guide
 
 Sparkbox is a team that values education. We offer paid apprenticeship at our Dayton office because we love what we do, we want to help create new talent, and we genuinely care about the future of the web.
