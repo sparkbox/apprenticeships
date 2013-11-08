@@ -1,4 +1,4 @@
-**Disclaimer:** *This guide is in early stages of development. We are translating our Sparkbox apprenticeship content into a useful format here on GitHub.*
+**Disclaimer:** *This guide is under construction. We are slowly translating our Sparkbox apprenticeship content into a useful format here on GitHub.*
 
 # Sparkbox Apprenticeship Guide
 
