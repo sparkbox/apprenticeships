@@ -4,12 +4,12 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 
 ## Phase 1 - *Source Control and Programming Basics*
 
-Reading:
+**Reading:**
 
 * [Getting Real][], 37signals
 * [Passionate Programmer][], Chad Fowler
 
-Training:
+**Training:**
 
 * [CodeSchool: Try Ruby][]
 * [CodeSchool: Try Git][]
@@ -27,14 +27,14 @@ Training:
 * Game of Life - Refactor: implement changes discussed in review
 * Book Reviews - add to weekly journal (all books asigned above). 100-200 words with a brief summary and your biggest applicable takeaway.
 
-Additional Resources:
+**Additional Resources:**
 
 * [Learn the Command Line the Hard Way][]
 * [Learn Ruby the Hard Way][]
 
-## Phase 2 - *Frontend Development and Best Practices*
+## Phase 2 - *Frontend Development: Markup, Style, Interaction, and Preprocessing*
 
-Reading:
+**Reading:**
 
 * [HTML5 for Web Designers][], Jeremy Keith
 * [CSS3 for Web Designers][], Dan Cederholm
@@ -42,14 +42,14 @@ Reading:
 * [Mobile First][], Luke Wroblewski
 * [Design is a Job][], Mike Monteiro
 
-Ongoing Ruby Projects:
+**Ongoing Programming Projects:**
 
 * [Game of Life Kata - Ruby][]
 * [FizzBuzz Kata - Ruby][]
 * [Bowling Kata - Ruby][]
 * Tic-tac-toe Kata - Ruby
 
-Training:
+**Training:**
 
 * Introduction to frontend project
 * [CodeSchool: Functional HTML5 & CSS3][]
@@ -66,27 +66,27 @@ Training:
 * Frontend project RWD practices review (CSS to be rewritten)
 * [CodeAcademy: Introduction to JavaScript][]
 * Introduction to Jasmine
-* [FizzBuzz Kata - Javascript] *with unit tests*
+* [FizzBuzz Kata - Javascript][] *with unit tests*
 * [CodeSchool: CoffeeScript][]
 * [CodeSchool: jQuery Air: First Flight][]
 * [CodeSchool: jQuery Air: Captain's Log][]
 * Frontend project JavaScript review (CSS to be rewritten)
 * Frontend project final review and launch!
 
-## Phase 3 - *MVC Frameworks and Personal Projects*
+## Phase 3 - *MVC Frameworks, Databases, and Personal Projects*
 
-Reading:
+**Reading:**
 
 * [Exceptional Ruby][], Advi Grimm
 * [The Rails 3 Way][], Obie Fernandez
 
-Training:
+**Training:**
 
 * Intro to Rails and MVC (Model View Controller)
 * [CodeSchool: Rails for Zombies 1 (Redux)][]
 * [CodeSchool: Rails for Zombies 2][]
 
-Additional Resources:
+**Additional Resources:**
 
 * [Agile Web Development With Rails][]
 * [Crafting Rails Applications][]
@@ -123,6 +123,7 @@ Additional Resources:
 [Mobile First]: http://www.abookapart.com/products/mobile-first
 [Design is a Job]: http://www.abookapart.com/products/design-is-a-job
 [FizzBuzz Kata - Ruby]: https://github.com/garora/TDD-Katas#the-fizzbuzz-kata
+[FizzBuzz Kata - Javascript]: https://github.com/garora/TDD-Katas#the-fizzbuzz-kata
 [Bowling Kata - Ruby]: https://github.com/garora/TDD-Katas#the-bowling-game-kata
 [CodeSchool: Rails for Zombies 1 (Redux)]: http://www.codeschool.com/courses/rails-for-zombies-redux
 [CodeSchool: Rails for Zombies 2]: http://www.codeschool.com/courses/rails-for-zombies-2
