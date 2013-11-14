@@ -85,13 +85,6 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 * Intro to Rails and MVC (Model View Controller)
 * [CodeSchool: Rails for Zombies 1 (Redux)][]
 * [CodeSchool: Rails for Zombies 2][]
-
-**Additional Resources:**
-
-* [Agile Web Development With Rails][]
-* [Crafting Rails Applications][]
-* [Rails Recipes][]
-* [Rails Test Prescriptions][]
 * [CodeSchool: Rails Testing for Zombies][]
 * [Code school: Rails Best Practices][]
 * Set up a rails application environment from scratch *(this will be done multiple times and potentially with a variety of requirements).*
@@ -101,6 +94,13 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 * Complete and launch team project
 * Intro to sparkbox/project-init
 * Kick off Pet Project
+
+**Additional Resources:**
+
+* [Agile Web Development With Rails][]
+* [Crafting Rails Applications][]
+* [Rails Recipes][]
+* [Rails Test Prescriptions][]
 
 [Getting Real]: http://gettingreal.37signals.com/
 [Passionate Programmer]: http://www.amazon.com/The-Passionate-Programmer-Remarkable-Development/dp/1934356344
