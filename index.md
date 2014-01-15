@@ -6,101 +6,101 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 
 **Reading:**
 
-* [Getting Real][], 37signals
-* [Passionate Programmer][], Chad Fowler
+- [ ] [Getting Real][], 37signals
+- [ ] [Passionate Programmer][], Chad Fowler
 
 **Training:**
 
-* [CodeSchool: Try Ruby][]
-* [CodeSchool: Try Git][]
-* [CodeSchool: Git Real][]
-* [Sparkbox how_to][]: your first experience with Git
-* [More Git][]: more Git practice
-* [Ruby setup][]: set up your machine for running Ruby
-* [Ruby koans][]: let's start learning Ruby
-* [CodeSchool: Ruby Bits 1][]
-* [CodeSchool: Ruby Bits 2][]
-* [Triangle Kata - Ruby][] *with test suite*
-* [Game of Life Kata - Ruby][] *with test suite*
-* Game of Life - Git: push your project to Github for review
-* Game of Life - Review: code review your project with your technical director
-* Game of Life - Refactor: implement changes discussed in review
-* Book Reviews - add to weekly journal (all books asigned above). 100-200 words with a brief summary and your biggest applicable takeaway.
+- [ ] [CodeSchool: Try Ruby][]
+- [ ] [CodeSchool: Try Git][]
+- [ ] [CodeSchool: Git Real][]
+- [ ] [Sparkbox how_to][]: your first experience with Git
+- [ ] [More Git][]: more Git practice
+- [ ] [Ruby setup][]: set up your machine for running Ruby
+- [ ] [Ruby koans][]: let's start learning Ruby
+- [ ] [CodeSchool: Ruby Bits 1][]
+- [ ] [CodeSchool: Ruby Bits 2][]
+- [ ] [Triangle Kata - Ruby][] *with test suite*
+- [ ] [Game of Life Kata - Ruby][] *with test suite*
+- [ ] Game of Life - Git: push your project to Github for review
+- [ ] Game of Life - Review: code review your project with your technical director
+- [ ] Game of Life - Refactor: implement changes discussed in review
+- [ ] Book Reviews - add to weekly journal (all books asigned above). 100-200 words with a brief summary and your biggest applicable takeaway.
 
 **Additional Resources:**
 
-* [Learn the Command Line the Hard Way][]
-* [Learn Ruby the Hard Way][]
+- [ ] [Learn the Command Line the Hard Way][]
+- [ ] [Learn Ruby the Hard Way][]
 
 ## Phase 2 - *Frontend Development: Markup, Style, Interaction, and Preprocessing*
 
 **Reading:**
 
-* [HTML5 for Web Designers][], Jeremy Keith
-* [CSS3 for Web Designers][], Dan Cederholm
-* [Responsive Web Design][], Ethan Marcotte
-* [Mobile First][], Luke Wroblewski
-* [Design is a Job][], Mike Monteiro
+- [ ] [HTML5 for Web Designers][], Jeremy Keith
+- [ ] [CSS3 for Web Designers][], Dan Cederholm
+- [ ] [Responsive Web Design][], Ethan Marcotte
+- [ ] [Mobile First][], Luke Wroblewski
+- [ ] [Design is a Job][], Mike Monteiro
 
 **Ongoing Programming Projects:**
 
-* [Game of Life Kata - Ruby][]
-* [FizzBuzz Kata - Ruby][]
-* [Bowling Kata - Ruby][]
-* Tic-tac-toe Kata - Ruby
+- [ ] [Game of Life Kata - Ruby][]
+- [ ] [FizzBuzz Kata - Ruby][]
+- [ ] [Bowling Kata - Ruby][]
+- [ ] Tic-tac-toe Kata - Ruby
 
 **Training:**
 
-* Introduction to frontend project
-* [CodeSchool: Functional HTML5 & CSS3][]
-* [CodeSchool: HTML5 & CSS3 Updates Screencast][]
-* [CodeSchool: CSS Cross-Country][]
-* Frontend project style prototype review
-* Frontend project HTML review
-* Frontend project CSS review
-* [CodeSchool: Assembling Sass][]
-* [CodeSchool: Assembling Sass Part 2][]
-* Introduction to Compass
-* Frontend project Sass review (CSS to be rewritten)
-* [CodeSchool: Journey Into Mobile][]
-* Frontend project RWD practices review (CSS to be rewritten)
-* [CodeAcademy: Introduction to JavaScript][]
-* Introduction to Jasmine
-* [FizzBuzz Kata - Javascript][] *with unit tests*
-* [CodeSchool: CoffeeScript][]
-* [CodeSchool: jQuery Air: First Flight][]
-* [CodeSchool: jQuery Air: Captain's Log][]
-* Frontend project JavaScript review (CSS to be rewritten)
-* Frontend project final review and launch!
+- [ ] Introduction to frontend project
+- [ ] [CodeSchool: Functional HTML5 & CSS3][]
+- [ ] [CodeSchool: HTML5 & CSS3 Updates Screencast][]
+- [ ] [CodeSchool: CSS Cross-Country][]
+- [ ] Frontend project style prototype review
+- [ ] Frontend project HTML review
+- [ ] Frontend project CSS review
+- [ ] [CodeSchool: Assembling Sass][]
+- [ ] [CodeSchool: Assembling Sass Part 2][]
+- [ ] Introduction to Compass
+- [ ] Frontend project Sass review (CSS to be rewritten)
+- [ ] [CodeSchool: Journey Into Mobile][]
+- [ ] Frontend project RWD practices review (CSS to be rewritten)
+- [ ] [CodeAcademy: Introduction to JavaScript][]
+- [ ] Introduction to Jasmine
+- [ ] [FizzBuzz Kata - Javascript][] *with unit tests*
+- [ ] [CodeSchool: CoffeeScript][]
+- [ ] [CodeSchool: jQuery Air: First Flight][]
+- [ ] [CodeSchool: jQuery Air: Captain's Log][]
+- [ ] Frontend project JavaScript review (CSS to be rewritten)
+- [ ] Frontend project final review and launch!
 
 ## Phase 3 - *MVC Frameworks, Databases, and Personal Projects*
 
 **Reading:**
 
-* [Exceptional Ruby][], Advi Grimm
-* [The Rails 3 Way][], Obie Fernandez
+- [ ] [Exceptional Ruby][], Advi Grimm
+- [ ] [The Rails 3 Way][], Obie Fernandez
 
 **Training:**
 
-* Intro to Rails and MVC (Model View Controller)
-* [CodeSchool: Rails for Zombies 1 (Redux)][]
-* [CodeSchool: Rails for Zombies 2][]
-* [CodeSchool: Rails Testing for Zombies][]
-* [Code school: Rails Best Practices][]
-* Set up a rails application environment from scratch *(this will be done multiple times and potentially with a variety of requirements).*
-* Intro to database models
-* Create a to-do app
-* Kick off team project
-* Complete and launch team project
-* Intro to sparkbox/project-init
-* Kick off Pet Project
+- [ ] Intro to Rails and MVC (Model View Controller)
+- [ ] [CodeSchool: Rails for Zombies 1 (Redux)][]
+- [ ] [CodeSchool: Rails for Zombies 2][]
+- [ ] [CodeSchool: Rails Testing for Zombies][]
+- [ ] [Code school: Rails Best Practices][]
+- [ ] Set up a rails application environment from scratch *(this will be done multiple times and potentially with a variety of requirements).*
+- [ ] Intro to database models
+- [ ] Create a to-do app
+- [ ] Kick off team project
+- [ ] Complete and launch team project
+- [ ] Intro to sparkbox/project-init
+- [ ] Kick off Pet Project
 
 **Additional Resources:**
 
-* [Agile Web Development With Rails][]
-* [Crafting Rails Applications][]
-* [Rails Recipes][]
-* [Rails Test Prescriptions][]
+- [ ] [Agile Web Development With Rails][]
+- [ ] [Crafting Rails Applications][]
+- [ ] [Rails Recipes][]
+- [ ] [Rails Test Prescriptions][]
 
 [Getting Real]: http://gettingreal.37signals.com/
 [Passionate Programmer]: http://www.amazon.com/The-Passionate-Programmer-Remarkable-Development/dp/1934356344

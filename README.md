@@ -2,6 +2,9 @@
 
 # Sparkbox Apprenticeship Guide
 
+> "Apprenticeship makes a difference because it instills a lifelong passion to master the craft. It instills a passion for perpetual learning and, in the process, enables the apprentice to become a great developer."
+> —Pete McBreen, [Software Craftsmanship: The New Imperative][]
+
 Sparkbox is a team that values education. We offer paid apprenticeship at our Dayton office because we love what we do, we want to help create new talent, and we genuinely care about the future of the web.
 
 We hate the idea of keeping our apprenticeship progam to ourselves, though. If you're not in our area, no problem! We're outlining our entire program here for you to do on your own - or to introduce to your team. If you're crazy about the idea of becoming a well-rounded web developer, yet aren't quite sure where to start, we think you've found just the right place to begin.
@@ -32,3 +35,4 @@ Enough jabber. [Let's get going][].
 [Submit an Application]: https://docs.google.com/a/heysparkbox.com/spreadsheet/viewform?formkey=dG9LNXU2M05MZEVnUE4teHJqeW9VSUE6MQ#gid=0
 [exciting]: https://gimmebar-assets.s3.amazonaws.com/4f510a3e40913.gif
 [Let's get going]: index.md
+[Software Craftsmanship: The New Imperative]: http://www.amazon.com/Software-Craftsmanship-The-New-Imperative/dp/0201733862
