@@ -37,6 +37,7 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 * [Why's Poignant Guide to Ruby][]
 * [Apprenticeship Patterns][]
 * Practical Vim ("sb-bookshelf" in Dropbox)
+* [Treehouse][]
 
 ## Phase 2 - *Frontend Development: Markup, Style, Interaction, and Preprocessing*
 
@@ -72,13 +73,16 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 * Frontend project RWD practices review (CSS to be rewritten)
 * [CodeAcademy: Introduction to JavaScript][]
 * Introduction to Jasmine
-* [TryJasmine][]
 * [FizzBuzz Kata - Javascript][] *with unit tests*
 * [CodeSchool: CoffeeScript][]
 * [CodeSchool: jQuery Air: First Flight][]
 * [CodeSchool: jQuery Air: Captain's Log][]
 * Frontend project JavaScript review (CSS to be rewritten)
 * Frontend project final review and launch!
+
+**Additional Resources:**
+
+* [TryJasmine][]
 
 ## Phase 3 - *MVC Frameworks, Databases, and Personal Projects*
 
@@ -158,4 +162,5 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 [Rails Test Prescriptions]: http://pragprog.com/book/nrtest/rails-test-prescriptions
 [Code school: Rails Best Practices]: https://www.codeschool.com/courses/rails-best-practices
 [TryJasmine]:http://tryjasmine.com/
+[Treehouse]:http://teamtreehouse.com/
 
