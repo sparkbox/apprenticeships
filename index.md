@@ -72,6 +72,7 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 * Frontend project RWD practices review (CSS to be rewritten)
 * [CodeAcademy: Introduction to JavaScript][]
 * Introduction to Jasmine
+* [TryJasmine][]
 * [FizzBuzz Kata - Javascript][] *with unit tests*
 * [CodeSchool: CoffeeScript][]
 * [CodeSchool: jQuery Air: First Flight][]
@@ -156,3 +157,5 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 [Rails Recipes]: http://pragprog.com/book/fr_rr/rails-recipes
 [Rails Test Prescriptions]: http://pragprog.com/book/nrtest/rails-test-prescriptions
 [Code school: Rails Best Practices]: https://www.codeschool.com/courses/rails-best-practices
+[TryJasmine]:http://tryjasmine.com/
+
