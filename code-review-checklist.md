@@ -1,4 +1,7 @@
-
+---
+title: Code Review Checklist
+layout: default
+---
 **General**
 
   1. Site uses a cache buster for expiring .js, .css, and images
