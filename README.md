@@ -2,7 +2,10 @@
 title: Readme
 layout: default
 ---
-[← Back to Apprenticeship Resources and Curriculum](/apprenticeships/index.html)
+[← Back to Apprenticeship Resources and Curriculum](/apprenticeships)
+
+[← Back to Apprenticeship Resources and Curriculum](/apprenticeships/code-review-checklist.html)
+
 
 **Disclaimer:** *This guide is under construction. We are slowly translating our Sparkbox apprenticeship content into a useful format here on GitHub.*
 

@@ -3,7 +3,11 @@ title: Code Review Checklist
 layout: default
 ---
 [← Back to README](/apprenticeships/README.html)
-[← Back to Apprenticeship Resources and Curriculum](/apprenticeships/index.html)
+
+[← Back to Apprenticeship Resources and Curriculum](/apprenticeships)
+
+[← Back to Apprenticeship Resources and Curriculum](/apprenticeships/code-review-checklist.html)
+
 
 **General**
 
