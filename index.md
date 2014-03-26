@@ -2,11 +2,11 @@
 title: Apprenticeship Resources and Curriculum
 layout: default
 ---
-[← Back to README](/apprenticeships/README.md)
-
 [← Back to Code Review Checklist](/apprenticeships/code-review-checklist.html)
 
 [← Back to How](/apprenticeships/how.html)
+
+[← Back to README](/apprenticeships/README.md)
 
 The Sparkbox Apprenticeship is loosely separated into three phases. Completing a phase provides a clear checkpoint for review, reflection, and closure.
 
