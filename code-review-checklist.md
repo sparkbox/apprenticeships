@@ -30,7 +30,7 @@ layout: default
 
   1. All user input is “sanitized”
   2. Form elements are paired with labels elements containing the for attribute
-  3. Form label/input pairs are wrapped with a block level element (e.g. <p>)
+  3. Form label/input pairs are wrapped with a block level element (e.g. `<p>`)
   4. Forms are logically arranged within fieldsets
 
 **Accessibility**
@@ -66,12 +66,12 @@ layout: default
   6. jQuery selectors are performant
   7. jQuery objects are cached
   8. Event delegation is used for binding events to 2 or more elements, or ajax'd elements
-  9. Script blocks are placed before the closing <body> tag
+  9. Script blocks are placed before the closing `<body>` tag
   10. Code has been run through JSLint (jslint.com) or JSHint (jshint.com)
 
 **SEO**
 
-  1. Uses a valid <title> element with a valid text node
+  1. Uses a valid `<title>` element with a valid text node
   2. Uses description meta data
   3. Uses visible header tags
 
