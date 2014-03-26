@@ -6,7 +6,7 @@ layout: default
 
 [← Back to Apprenticeship Resources and Curriculum](/apprenticeships)
 
-[← Back to Apprenticeship Resources and Curriculum](/apprenticeships/code-review-checklist.html)
+[← Back to How](/apprenticeships/how.html)
 
 
 **General**
