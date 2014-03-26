@@ -2,11 +2,11 @@
 title: Apprenticeship Resources and Curriculum
 layout: default
 ---
+[← Back to README](/apprenticeships/README.html)
+
 [← Back to Code Review Checklist](/apprenticeships/code-review-checklist.html)
 
 [← Back to How](/apprenticeships/how.html)
-
-[← Back to README](/apprenticeships/README.html)
 
 **TEST!**
 
