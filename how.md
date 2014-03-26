@@ -2,9 +2,11 @@
 title: How
 layout: default
 ---
-[← Back to README](/apprenticeships/README.md)
+[← Back to README](/apprenticeships/README.html)
+[← Back to Apprenticeship Resources and Curriculum](/apprenticeships/index.html)
 
-The Sparkbox Apprenticeship is comprised of a [curriculum](/apprenticeships/index.md) supplemented by a regular schedule of: pairing with fulltime Sparkboxers, pairing with other apprentices, journal writing, informal and formal reviews which include short presentations.
+
+The Sparkbox Apprenticeship is comprised of a [curriculum](/index.md) supplemented by a regular schedule of: pairing with fulltime Sparkboxers, pairing with other apprentices, journal writing, informal and formal reviews which include short presentations.
 
 ## Pairing 
 
