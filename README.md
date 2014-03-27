@@ -3,13 +3,13 @@ layout: index
 title: Readme
 company: Sparkbox
 ---
-[← Apprenticeship Resources and Curriculum](./)
+[Apprenticeship Resources and Curriculum](./)
 
-[← Code Review Checklist](code-review-checklist.html)
+[Code Review Checklist](code-review-checklist.html)
 
-[← README](README.html)
+[README](README.html)
 ---
-[← How](how.html)
+[How](how.html)
 
 
 **Disclaimer:** *This guide is under construction. We are slowly translating our <span>{{ page.company }}</span> apprenticeship content into a useful format here on GitHub.*

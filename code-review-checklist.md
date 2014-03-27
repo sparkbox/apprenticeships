@@ -2,13 +2,13 @@
 layout: index
 title: Code Review Checklist
 ---
-[← Apprenticeship Resources and Curriculum](./)
+[Apprenticeship Resources and Curriculum](./)
 
-[← Code Review Checklist](code-review-checklist.html)
+[Code Review Checklist](code-review-checklist.html)
 ---
-[← README](README.html)
+[README](README.html)
 
-[← How](how.html)
+[How](how.html)
 
 
 ###General###

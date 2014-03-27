@@ -4,13 +4,13 @@ title: How
 name: Sparkboxer
 company: Sparkbox
 ---
-[← Apprenticeship Resources and Curriculum](./)
+[Apprenticeship Resources and Curriculum](./)
 
-[← Code Review Checklist](code-review-checklist.html)
+[Code Review Checklist](code-review-checklist.html)
 
-[← README](README.html)
+[README](README.html)
 
-[← How](how.html)
+[How](how.html)
 ---
 
 The Sparkbox Apprenticeship is comprised of a [curriculum](index.html) supplemented by a regular schedule of: pairing with fulltime <span>{{ page.name }}</span>s, pairing with other apprentices, journal writing, informal and formal reviews which include short presentations.
