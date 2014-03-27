@@ -1,6 +1,6 @@
 ---
 title: Readme
-layout: default
+layout: /stylesheets/styles.css
 ---
 [← Apprenticeship Resources and Curriculum](/apprenticeships)
 
