@@ -2,7 +2,7 @@
 layout: index
 title: Readme
 ---
-[← Apprenticeship Resources and Curriculum](index.html)
+[← Apprenticeship Resources and Curriculum](./)
 
 [← Code Review Checklist](code-review-checklist.html)
 
