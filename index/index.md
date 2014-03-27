@@ -1,6 +1,6 @@
 ---
-title: Apprenticeship Resources and Curriculum
 layout: index
+title: Apprenticeship Resources and Curriculum
 ---
 [← Code Review Checklist](/apprenticeships/code-review-checklist.html)
 

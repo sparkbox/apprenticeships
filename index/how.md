@@ -1,6 +1,6 @@
 ---
-title: How
 layout: index
+title: How
 ---
 [← Apprenticeship Resources and Curriculum](/apprenticeships)
 

@@ -1,6 +1,6 @@
 ---
-title: Readme
 layout: index
+title: Readme
 ---
 [← Apprenticeship Resources and Curriculum](/apprenticeships)
 
