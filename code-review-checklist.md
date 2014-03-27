@@ -1,6 +1,6 @@
 ---
 title: Code Review Checklist
-layout: default
+layout: index
 ---
 [← Apprenticeship Resources and Curriculum](/apprenticeships)
 
