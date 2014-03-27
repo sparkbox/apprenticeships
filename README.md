@@ -1,19 +1,22 @@
 ---
 layout: index
 title: Readme
+company: Sparkbox
 ---
 [← Apprenticeship Resources and Curriculum](./)
 
 [← Code Review Checklist](code-review-checklist.html)
 
+[← README](README.html)
+---
 [← How](how.html)
 
 
-**Disclaimer:** *This guide is under construction. We are slowly translating our Sparkbox apprenticeship content into a useful format here on GitHub.*
+**Disclaimer:** *This guide is under construction. We are slowly translating our <span>{{ page.company }}</span> apprenticeship content into a useful format here on GitHub.*
 
-# Sparkbox Apprenticeship Guide
+# <span>{{ page.company }}</span> Apprenticeship Guide
 
-Sparkbox is a team that values education. We offer paid apprenticeship at our Dayton office because we love what we do, we want to help create new talent, and we genuinely care about the future of the web.
+<span>{{ page.company }}</span> is a team that values education. We offer paid apprenticeship at our Dayton office because we love what we do, we want to help create new talent, and we genuinely care about the future of the web.
 
 We hate the idea of keeping our apprenticeship progam to ourselves, though. If you're not in our area, no problem! We're outlining our entire program here for you to do on your own - or to introduce to your team. If you're crazy about the idea of becoming a well-rounded web developer, yet aren't quite sure where to start, we think you've found just the right place to begin.
 
@@ -25,7 +28,7 @@ This isn't for the faint of heart. Learning technical skillsets isn't easy work,
 
 ## What You'll Be Doing
 
-In the first months of your apprenticeship, you'll be exposed to the core technologies of our work and work flow. Everyone, regardless of job title, will be brought to an understanding of Sparkbox's convictions on the priority of content, value of design, semantic HTML, and mobile-first CSS.
+In the first months of your apprenticeship, you'll be exposed to the core technologies of our work and work flow. Everyone, regardless of job title, will be brought to an understanding of <span>{{ page.company }}</span>'s convictions on the priority of content, value of design, semantic HTML, and mobile-first CSS.
 
 We'll start with a philosophy of learning - we want you to get the most out of your education. Then you'll be exposed to programming languages, our Github-centric project management, our highly specialized front-end development workflow, our deployment processes, best practices for clean code and separation of concerns, and unit testing techniques.
 

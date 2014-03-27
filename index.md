@@ -1,6 +1,9 @@
 ---
 layout: index
 title: Apprenticeship Resources and Curriculum
+company: Sparkbox
+---
+[← Apprenticeship Resources and Curriculum](./)
 ---
 [← Code Review Checklist](code-review-checklist.html)
 
@@ -8,7 +11,7 @@ title: Apprenticeship Resources and Curriculum
 
 [← How](how.html)
 
-The Sparkbox Apprenticeship is loosely separated into three phases. Completing a phase provides a clear checkpoint for review, reflection, and closure.
+The <span>{{ page.company }}</span> Apprenticeship is loosely separated into three phases. Completing a phase provides a clear checkpoint for review, reflection, and closure.
 
 ## Phase 1 - *Source Control and Programming Basics*
 
