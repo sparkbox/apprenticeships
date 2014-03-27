@@ -2,13 +2,13 @@
 layout: index
 title: How
 ---
-[← Apprenticeship Resources and Curriculum](/apprenticeships)
+[← Apprenticeship Resources and Curriculum](index.html)
 
-[← Code Review Checklist](/apprenticeships/code-review-checklist.html)
+[← Code Review Checklist](code-review-checklist.html)
 
-[← README](/apprenticeships/README.html)
+[← README](README.html)
 
-The Sparkbox Apprenticeship is comprised of a [curriculum](/apprenticeships) supplemented by a regular schedule of: pairing with fulltime Sparkboxers, pairing with other apprentices, journal writing, informal and formal reviews which include short presentations.
+The Sparkbox Apprenticeship is comprised of a [curriculum](index.html) supplemented by a regular schedule of: pairing with fulltime Sparkboxers, pairing with other apprentices, journal writing, informal and formal reviews which include short presentations.
 
 ## Pairing 
 
