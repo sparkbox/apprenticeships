@@ -22,20 +22,20 @@ github_address: https://github.com/sparkbox/apprenticeships
  <body>
     <div class="wrapper">
       <header>
-        <h1>Apprenticeships</h1>
-        <p>A guide to the <span>{{ page.company }}</span> apprenticeships</p>
+        <h1>Sparkbox Apprenticeship</h1>
+        <p>A guide to the <span>{{ page.company }}</span> apprenticeship</p>
         <p class="view"><a href={{ page.github_address }}>View the Project on GitHub <small><span>{{ page.github_name }}</span>/apprenticeships</small></a></p>
         <ul>
-          <li><a href="https://github.com/mondorobot/apprenticeships/zipball/master">Download <strong>ZIP File</strong></a></li>
-          <li><a href="https://github.com/mondorobot/apprenticeships/tarball/master">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="https://github.com/mondorobot/apprenticeships">View On <strong>GitHub</strong></a></li>
+          <li><a href="https://github.com/{{ page.github_name }}/apprenticeships/zipball/master">Download <strong>ZIP File</strong></a></li>
+          <li><a href="https://github.com/{{ page.github_name }}/apprenticeships/tarball/master">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="https://github.com/{{ page.github_name }}/apprenticeships">View On <strong>GitHub</strong></a></li>
         </ul>
       </header>
       <section>
         {{content}}
       </section>
       <footer>
-        <p>This project is maintained by <a href="https://github.com/mondorobot"><span>{{ page.company }}</span></a></p>
+        <p>This project is maintained by <a href="https://github.com/{{ page.github_name }}"><span>{{ page.company }}</span></a></p>
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>

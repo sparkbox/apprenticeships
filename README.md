@@ -5,8 +5,6 @@ company: Sparkbox
 ---
 [Apprenticeship Resources and Curriculum](./)
 
-[Code Review Checklist](code-review-checklist.html)
-
 [README](README.html)
 ---
 [How](how.html)
@@ -40,7 +38,7 @@ Otherwise, this guide should provide you with everything you need to get started
 
 Enough jabber. [Let's get going][].
 
-[![Internet is Exciting][exciting]]
+![Internet is Exciting][exciting]
 
 [local]: https://maps.google.com/maps?q=123+Webster+St.,+Studio+2,+Dayton,+OH+45402&hl=en&sll=40.365277,-82.669252&sspn=4.53679,8.811035&hnear=123+Webster+St,+Dayton,+Montgomery,+Ohio+45402&t=m&z=16
 [Submit an Application]: https://docs.google.com/a/heysparkbox.com/spreadsheet/viewform?formkey=dG9LNXU2M05MZEVnUE4teHJqeW9VSUE6MQ#gid=0

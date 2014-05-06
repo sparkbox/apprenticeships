@@ -6,8 +6,6 @@ company: Sparkbox
 ---
 [Apprenticeship Resources and Curriculum](./)
 
-[Code Review Checklist](code-review-checklist.html)
-
 [README](README.html)
 
 [How](how.html)
