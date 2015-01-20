@@ -11,15 +11,14 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 
 **Training:**
 
-* [CodeSchool: Try Git][]
-* [CodeSchool: Git Real 2][]
-* [CodeSchool: Git Real][]
-* [Sparkbox how_to][]: your first experience with Git
-* [More Git][]: more Git practice
-* [CodeSchool: Try Ruby][]
-* [Ruby setup][]: set up your machine for running Ruby
+* ~~[CodeSchool: Try Git][]~~
+* ~~[CodeSchool: Git Real 2][]~~
+* ~~[CodeSchool: Git Real][]~~
+* ~~[More Git][]: more Git practice~~
+* ~~[CodeSchool: Try Ruby][]~~
+* ~~[Ruby setup][]: set up your machine for running Ruby~~
 * [Ruby koans][]: let's start learning Ruby
-* [CodeSchool: Ruby Bits 1][]
+* [CodeSchool: Ruby Bits 1][] 
 * [CodeSchool: Ruby Bits 2][]
 * [CodeSchool: Testing with RSpec][]
 * [Triangle Kata - Ruby][] *with test suite*
@@ -32,6 +31,7 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 
 **Additional Resources:**
 
+* [Practical Object Oriented Programming in Ruby][] (“sb-bookshelf” in Dropbox)
 * [Learn the Command Line the Hard Way][]
 * [Learn Ruby the Hard Way][]
 * [Why's Poignant Guide to Ruby][]
@@ -119,7 +119,6 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 [CodeSchool: Git Real 2]: https://www.codeschool.com/courses/git-real-2
 [CodeSchool: Git Real]: http://www.codeschool.com/courses/git-real
 [CodeSchool: Try Ruby]: http://tryruby.org/
-[Sparkbox how_to]: projects/proj-sb-howto.md
 [More Git]: projects/proj-more-git.md
 [Ruby setup]: projects/proj-ruby-setup.md
 [Ruby koans]: http://rubykoans.com/windows
@@ -156,6 +155,7 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 [CodeSchool: jQuery Air: Captain's Log]: https://www.codeschool.com/courses/jquery-air-captains-log
 [Exceptional Ruby]: http://exceptionalruby.com/
 [The Rails 3 Way]: http://www.amazon.com/Rails-Edition-Addison-Wesley-Professional-Series/dp/0321601661
+[Practical Object Oriented Programming in Ruby]: http://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330
 [Agile Web Development With Rails]: http://pragprog.com/book/rails4/agile-web-development-with-rails-4
 [Crafting Rails Applications]: http://pragprog.com/book/jvrails/crafting-rails-applications
 [Rails Recipes]: http://pragprog.com/book/fr_rr/rails-recipes
