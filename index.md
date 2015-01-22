@@ -6,7 +6,7 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 
 **Reading:**
 
-* [Getting Real][], 37signals
+* ~~[Getting Real][], 37signals~~
 * [Passionate Programmer][], Chad Fowler
 
 **Training:**
