@@ -25,7 +25,7 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 * [Game of Life Kata - Ruby][] *with test suite*
 * Game of Life - Git: push your project to Github for review
 * Game of Life - Review: code review your project with your technical director
-* [Ruby Warriors][]
+* ~~[Ruby Warriors][]~~
 * Game of Life - Refactor: implement changes discussed in review
 * Book Reviews - add to weekly journal (all books asigned above). 100-200 words with a brief summary and your biggest applicable takeaway.
 
