@@ -18,7 +18,7 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 * ~~[CodeSchool: Try Ruby][]~~
 * ~~[Ruby setup][]: set up your machine for running Ruby~~
 * ~~[Ruby koans][]: let's start learning Ruby~~
-* [CodeSchool: Ruby Bits 1][] 
+* ~~[CodeSchool: Ruby Bits 1][]~~
 * [CodeSchool: Ruby Bits 2][]
 * [CodeSchool: Testing with RSpec][]
 * [Triangle Kata - Ruby][] *with test suite*
