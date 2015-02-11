@@ -31,6 +31,7 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 
 **Additional Resources:**
 
+* [Explain Shell](http://www.explainshell.com)
 * [Practical Object Oriented Programming in Ruby][] (“sb-bookshelf” in Dropbox)
 * [Learn the Command Line the Hard Way][]
 * [Learn Ruby the Hard Way][]
