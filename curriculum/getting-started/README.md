@@ -26,18 +26,18 @@
 	- [ ] [Dropbox] [2.11]
 	- [ ] [Trello] [2.12]
 
-[2.1]: #
-[2.2]: projects/proj-more-git.md
-[2.3]: #
-[2.4]: #
-[2.5]: #
-[2.6]: #
-[2.7]: #
-[2.8]: #
-[2.9]: #
-[2.10]: #
-[2.11]: #
-[2.12]: #
+[2.1]: ../project-git-setup.md
+[2.2]: ../project-more-git.md
+[2.3]: https://dotfiles.github.io/
+[2.4]: http://www.sublimetext.com/
+[2.5]: http://www.vim.org/
+[2.6]: http://iterm2.com/
+[2.7]: http://www.alfredapp.com/
+[2.8]: http://manytricks.com/moom/
+[2.9]: http://kapeli.com/dash
+[2.10]: https://slack.com/
+[2.11]: https://www.dropbox.com
+[2.12]: https://trello.com/
  
 
 ## Books
@@ -57,4 +57,4 @@ Book Reviews: add to weekly journal (all books assigned below). 100-200 words wi
 - [ ] [Practical Vim] [4.2]
 
 [4.1]: http://chimera.labs.oreilly.com/books/1234000001813/index.html
-[4.2]: #
+[4.2]: http://www.amazon.com/Practical-Vim-Thought-Pragmatic-Programmers/dp/1934356980
