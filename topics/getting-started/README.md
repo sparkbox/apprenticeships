@@ -6,17 +6,29 @@
 - [ ] [CodeSchool: Try Git] [1.1]
 - [ ] [CodeSchool: Git Real 2] [1.2]
 - [ ] [CodeSchool: Git Real] [1.3]
-- [ ] [More Git Practice] [1.4]
 
 [1.1]: http://www.codeschool.com/courses/try-git
 [1.2]: https://www.codeschool.com/courses/git-real-2
 [1.3]: http://www.codeschool.com/courses/git-real
-[1.4]: projects/proj-more-git.md
 
 ## Projects
-- [ ] [Fizzbuzz Kata] [2.1]
+- [ ] [Git Setup] [2.1]
+- [ ] [Git Practice] [2.2]
+- [ ] [Customize Dotfiles] [2.3]
+- [ ] Install Apps
+	- [ ] [Sublime] [2.4]
+	- [ ] [Vim] [2.5]
+	- [ ] [iTerm] [2.6]
+	- [ ] [Alfred] [2.7]
+	- [ ] [Moom] [2.8]
+	- [ ] [Dash] [2.9]
+	- [ ] [Slack] [2.10]
+	- [ ] [Dropbox] [2.11]
+	- [ ] [Trello] [2.12]
 
-[2.1]: http://codingdojo.org/cgi-bin/index.pl?KataFizzBuzz
+[2.1]: 
+[2.2]: projects/proj-more-git.md
+[2.3]: 
 
 ## Books
 Book Reviews: add to weekly journal (all books assigned below). 100-200 words with a brief summary and your biggest applicable takeaway.
