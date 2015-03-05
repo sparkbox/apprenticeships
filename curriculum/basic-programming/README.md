@@ -1,4 +1,4 @@
-[← Back to Table of Contents](/topics/)
+[← Back to Table of Contents](/curriculum/)
 
 # Basic Programming
 
