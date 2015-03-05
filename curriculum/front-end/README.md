@@ -1,8 +1,4 @@
-<<<<<<< HEAD:curriculum/front-end/README.md
 [← Back to Table of Contents](/curriculum/)
-=======
-[← Back to Table of Contents](/topics)
->>>>>>> 0faf7f1d1f754e430c3add578a0c5721628b89ec:topics/front-end/README.md
 
 # Front-End
 
