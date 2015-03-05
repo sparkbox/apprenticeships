@@ -46,16 +46,29 @@ Book Reviews: add to weekly journal (all books assigned below). 100-200 words wi
 [3.5]: http://abookapart.com/products/design-is-a-job 
 
 ## Additional Resources
-- [Hack Design] [4.1]
-- [Atmoic Web Design] [4.2]
-- [CSS Tricks] [4.3]
-- [CodePen] [4.4]
-- [A List Apart] [4.5]
-- [Advanced HTML/CSS by Shay Howe] [4.6]
+
+* [Hack Design] [4.1]
+* [Atmoic Web Design] [4.2]
+* [Treehouse] [4.3]
+* [Codecademy: HTML & CSS] [4.4]
+* [Codecademy: jQuery] [4.5]
+* [CSS Tricks] [4.6]
+* [CodePen] [4.7]
+* [A List Apart] [4.8]
+* [Advanced HTML/CSS by Shay Howe] [4.9]
+* [Documentation: HTML] [4.10]
+* [Documentation: CSS] [4.11]
+* [Documentation: jQuery] [4.12]
 
 [4.1]: http://hackdesign.org/courses/
 [4.2]: http://bradfrost.com/blog/post/atomic-web-design/
-[4.3]: http://css-tricks.com/
-[4.4]: http://codpen.io/
-[4.5]: http://alistapart.com/
-[4.6]: http://learn.shayhowe.com/advanced-html-css/
+[4.3]: http://teamtreehouse.com/
+[4.4]: http://www.codecademy.com/en/tracks/web
+[4.5]: http://www.codecademy.com/en/tracks/jquery
+[4.6]: http://css-tricks.com/
+[4.7]: http://codpen.io/
+[4.8]: http://alistapart.com/
+[4.9]: http://learn.shayhowe.com/advanced-html-css/
+[4.10]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[4.11]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[4.12]: http://api.jquery.com/

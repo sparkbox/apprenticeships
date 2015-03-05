@@ -18,11 +18,9 @@
 - [ ] [CodeSchool: Javascript Best Practices] [1.10]
 - [ ] [CodeSchool: CoffeeScript] [1.11]
 - [ ] [Jasmine Tutorial] [1.12]
-- [ ] [CodeSchool: Try jQuery] [1.13]
-- [ ] [CodeSchool: jQuery The Return Flight] [1.14]
 
 [1.1]: http://tryruby.org/
-[1.2]: projects/proj-ruby-setup.md
+[1.2]: project-ruby-setup.md
 [1.3]: http://rubykoans.com/windows
 [1.4]: http://www.codeschool.com/courses/ruby-bits
 [1.5]: http://www.codeschool.com/courses/ruby-bits-part-2
@@ -33,8 +31,6 @@
 [1.10]: https://www.codeschool.com/courses/javascript-best-practices
 [1.11]: https://www.codeschool.com/courses/coffeescript
 [1.12]: http://code.tutsplus.com/tutorials/testing-your-javascript-with-jasmine--net-21229
-[1.13]: https://www.codeschool.com/courses/try-jquery
-[1.14]: https://www.codeschool.com/courses/jquery-the-return-flight
 
 ## Projects
 
@@ -92,23 +88,19 @@ Book Reviews: add to weekly journal (all books assigned below). 100-200 words wi
 * [Treehouse] [4.1]
 * [Codecademy: Ruby] [4.2]
 * [Codecademy: JavaScript] [4.3]
-* [Codecademy: jQuery] [4.4]
 * [Try Jasmine] [4.5]
 * [NodeSchool] [4.6]
 * [Documentation: Ruby] [4.7]
 * [Documentation: RSpec] [4.8]
 * [Documentation: JavaScript] [4.9]
 * [Documentation: Jasmine] [4.10]
-* [Documentation: jQuery] [4.11]
 
 [4.1]: http://teamtreehouse.com/
 [4.2]: http://www.codecademy.com/en/tracks/ruby
 [4.3]: http://www.codecademy.com/en/tracks/javascript
-[4.4]: http://www.codecademy.com/en/tracks/jquery
 [4.5]: http://tryjasmine.com/
 [4.6]: http://nodeschool.io/
 [4.7]: http://ruby-doc.org/
 [4.8]: https://relishapp.com/rspec
 [4.9]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
 [4.10]: http://jasmine.github.io/
-[4.11]: http://api.jquery.com/

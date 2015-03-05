@@ -34,12 +34,15 @@
 [3.2]: http://www.amazon.com/Rails-Edition-Addison-Wesley-Professional-Series/dp/0321601661
 
 ## Additional Resources
+
 * [Agile Web Development With Rails] [4.1]
 * [Crafting Rails Applications] [4.2]
 * [Rails Recipes] [4.3]
 * [Rails Test Prescriptions] [4.4]
+* [Documentation: Rails] [4.5]
 
 [4.1]: http://pragprog.com/book/rails4/agile-web-development-with-rails-4
 [4.2]: http://pragprog.com/book/jvrails/crafting-rails-applications
 [4.3]: http://pragprog.com/book/fr_rr/rails-recipes
 [4.4]: http://pragprog.com/book/nrtest/rails-test-prescriptions
+[4.5]: http://rubyonrails.org/documentation/
