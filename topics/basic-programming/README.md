@@ -88,7 +88,7 @@ Book Reviews: add to weekly journal (all books assigned below). 100-200 words wi
 ## Additional Resources
 
 * [Treehouse] [4.1]
-* [Codecademy: Ruby] [4.]
+* [Codecademy: Ruby] [4.2]
 * [Codecademy: JavaScript] [4.3]
 * [Codecademy: jQuery] [4.4]
 * [Try Jasmine] [4.5]
