@@ -31,11 +31,11 @@
 ## Books
 Book Reviews: add to weekly journal (all books assigned below). 100-200 words with a brief summary and your biggest applicable takeaway.
 
-- [ ] [*HTML5 for Web Designers*], Jeremy Keith [3.1]
-- [ ] [*CSS3 for Web Designers*], Dan Cederholm [3.2]
-- [ ] [*Responsive Web Design*], Ethan Marcotte [3.3]
-- [ ] [*Mobile First*], Luke Wroblewski [3.4]
-- [ ] [*Design is a Job*], Mike Monteiro [3.5]
+- [ ] [*HTML5 for Web Designers*] [3.1], Jeremy Keith
+- [ ] [*CSS3 for Web Designers*] [3.2], Dan Cederholm
+- [ ] [*Responsive Web Design*] [3.3], Ethan Marcotte
+- [ ] [*Mobile First*] [3.4], Luke Wroblewski
+- [ ] [*Design is a Job*] [3.5], Mike Monteiro
 
 [3.1]: http://html5forwebdesigners.com/
 [3.2]: http://abookapart.com/products/css3-for-web-designers
