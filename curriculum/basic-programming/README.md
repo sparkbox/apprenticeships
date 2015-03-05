@@ -2,6 +2,8 @@
 
 # Basic Programming
 
+![Basic Programming](http://i.giphy.com/eCqFYAVjjDksg.gif)
+
 ## Learning
 
 - [ ] [CodeSchool: Try Ruby] [1.1]
