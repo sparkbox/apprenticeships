@@ -26,7 +26,7 @@
 
 - [ ] [Front-End Project] [2.1]
 
-[2.1]: /project-front-end.md
+[2.1]: project-front-end.md
 
 ## Books
 Book Reviews: add to weekly journal (all books assigned below). 100-200 words with a brief summary and your biggest applicable takeaway.
