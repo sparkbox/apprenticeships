@@ -2,6 +2,8 @@
 
 # App Development
 
+![App Development](http://i.giphy.com/ZVik7pBtu9dNS.gif)
+
 ## Learning
 - [ ] Intro to Rails and MVC (Model View Controller)
 - [ ] [CodeSchool: Rails for Zombies 1 (Redux)] [1.1]

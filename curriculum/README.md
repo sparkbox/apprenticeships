@@ -17,3 +17,4 @@ Markup, styling, preprocessors, responsive web design, jQuery — it’s time to
 ## App Development [→](/curriculum/app-dev/)
 **[App Development](/curriculum/app-dev/)**
 
+![Yay Code!](http://i.giphy.com/VLu1UgYtmmsLu.gif)

@@ -2,6 +2,8 @@
 
 # Getting Started
 
+![Getting Started](http://33.media.tumblr.com/37e95b906cfa37b4b9971e3ed422f413/tumblr_mypz84XK191rlntwpo1_r1_500.gif)
+
 ## Learning
 - [ ] [CodeSchool: Try Git] [1.1]
 - [ ] [CodeSchool: Git Real 2] [1.2]
