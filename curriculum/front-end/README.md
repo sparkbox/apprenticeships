@@ -1,4 +1,8 @@
+<<<<<<< HEAD:curriculum/front-end/README.md
 [← Back to Table of Contents](/curriculum/)
+=======
+[← Back to Table of Contents](/topics)
+>>>>>>> 0faf7f1d1f754e430c3add578a0c5721628b89ec:topics/front-end/README.md
 
 # Front-End
 
@@ -26,7 +30,7 @@
 
 - [ ] [Front-End Project] [2.1]
 
-[2.1]: /project-front-end.md
+[2.1]: topics/front-end/project-front-end.md
 
 ## Books
 Book Reviews: add to weekly journal (all books assigned below). 100-200 words with a brief summary and your biggest applicable takeaway.
