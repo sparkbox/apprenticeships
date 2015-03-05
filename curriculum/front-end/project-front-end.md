@@ -1,4 +1,4 @@
-[← Back to Front-End](/topics)
+[← Back to Front-End](/curriculum/front-end)
 
 # Front-End Project
 
