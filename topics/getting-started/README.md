@@ -1,6 +1,6 @@
 [← Back to Table of Contents](/README.md)
 
-# Git, Command Line, & Development Environment
+# Getting Started
 
 ## Learning
 - [ ] [CodeSchool: Try Git] [1.1]
@@ -30,5 +30,9 @@ Book Reviews: add to weekly journal (all books assigned below). 100-200 words wi
 [3.3]: http://cli.learncodethehardway.org/book/
 
 ## Additional Resources
+
 - [ ] [Apprenticeship Patterns] [4.1]
 - [ ] [Practical Vim] [4.2]
+
+[4.1]: http://chimera.labs.oreilly.com/books/1234000001813/index.html
+[4.2]: 
