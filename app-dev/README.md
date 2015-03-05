@@ -1,4 +1,4 @@
-[← Back to Table of Contents](/curriculum/)
+[← Back to Table of Contents](/README.md)
 
 # App Development
 
