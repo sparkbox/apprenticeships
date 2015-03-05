@@ -26,9 +26,19 @@
 	- [ ] [Dropbox] [2.11]
 	- [ ] [Trello] [2.12]
 
-[2.1]: 
+[2.1]: #
 [2.2]: projects/proj-more-git.md
-[2.3]: 
+[2.3]: #
+[2.4]: #
+[2.5]: #
+[2.6]: #
+[2.7]: #
+[2.8]: #
+[2.9]: #
+[2.10]: #
+[2.11]: #
+[2.12]: #
+ 
 
 ## Books
 Book Reviews: add to weekly journal (all books assigned below). 100-200 words with a brief summary and your biggest applicable takeaway.
@@ -47,4 +57,4 @@ Book Reviews: add to weekly journal (all books assigned below). 100-200 words wi
 - [ ] [Practical Vim] [4.2]
 
 [4.1]: http://chimera.labs.oreilly.com/books/1234000001813/index.html
-[4.2]: 
+[4.2]: #

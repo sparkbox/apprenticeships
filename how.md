@@ -1,14 +1,16 @@
 [← Back to README](/README.md)
 
-The Sparkbox Apprenticeship is comprised of a [curriculum](/index.md) supplemented by a regular schedule of: pairing with fulltime Sparkboxers, pairing with other apprentices, journal writing, informal and formal reviews which include short presentations.
+# How
+
+The Sparkbox Apprenticeship is comprised of a [curriculum](/topics/) supplemented by a regular schedule of: pairing with fulltime Sparkboxers, pairing with other apprentices, journal writing, informal and formal reviews which include short presentations.
 
 ## Pairing 
 
-###With Sparkboxers###
+### With Sparkboxers
 
 Nothing can compare to sitting with full-time, professional developers to gain exposure to good technique and problem solving. Our apprentices are expected to pair at least twice a week, at least one hour at a time, with full-time Sparkboxers.
 
-###With Other Apprentices###
+### With Other Apprentices
 
 Sometimes, figuring out a problem with another person—even if the don't have any more answers than you—can really benefit new learners. Sparkbox apprentices are encouraged to collaborate and pair with their fellow apprentices early and often, and pairing becomes essential as the apprenticeship progresses into group project work.
 
