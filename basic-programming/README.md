@@ -56,7 +56,7 @@
 - [ ] [Ruby Warriors] [2.8]
 - [ ] [JavaScript Warriors] [2.9]
 
-[2.1]: https://github.com/kaseybon/triangle-kata
+[2.1]: project-triangle-kata.md
 [2.2]: http://codingdojo.org/cgi-bin/index.pl?KataFizzBuzz
 [2.3]: http://codingdojo.org/cgi-bin/index.pl?KataRomanNumerals
 [2.4]: http://codingdojo.org/cgi-bin/index.pl?KataBowling
