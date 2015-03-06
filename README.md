@@ -19,7 +19,7 @@ Markup, styling, preprocessors, responsive web design, jQuery — it’s time to
 Learn how to build something awesome by learning about MVCs, databases, frameworks, and so much more. **[App Development](/app-dev/)**
 
 ## Pairing, Journals, & Reviews [→](/how/)
-The Sparkbox Apprenticeship is comprised of a [curriculum](/topics/) supplemented by a regular schedule of: pairing with full-time Sparkboxers, pairing with other apprentices, journal writing, informal and formal reviews which include short presentations. **[Pairing, Journals, & Reviews](/how/)**
+The Sparkbox Apprenticeship is comprised of a curriculum supplemented by a regular schedule of: pairing with full-time Sparkboxers, pairing with other apprentices, journal writing, informal and formal reviews which include short presentations. **[Pairing, Journals, & Reviews](/how/)**
 
 ## Apply and Learn More [→](http://apprentices.seesparkbox.com/)
 Interesting in getting involved? **[It’s all here](http://apprentices.seesparkbox.com/)**
