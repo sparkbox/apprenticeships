@@ -1,4 +1,6 @@
-# How
+# Pairing, Journals, & Reviews
+
+![Yay Code!](http://i.giphy.com/VLu1UgYtmmsLu.gif)
 
 ## Pairing 
 
@@ -24,5 +26,3 @@ At the end of each formal review, we mutually have the opportunity to determine 
 ### Informal Reviews
 
 Informal reviews occur weekly. Sparkbox leadership sets aside portions of their week to give short checkpoint status meetings with apprentices, checking in on goals and the overall individual apprentice’s experience.
-
-![Yay Code!](http://i.giphy.com/VLu1UgYtmmsLu.gif)
