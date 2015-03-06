@@ -14,10 +14,10 @@ Markup, styling, preprocessors, responsive web design, jQuery — it’s time to
 ## App Development [→](/app-dev/)
 Learn how to build something awesome by learning about MVCs, databases, frameworks, and so much more. **[App Development](/app-dev/)**
 
-![Yay Code!](http://i.giphy.com/VLu1UgYtmmsLu.gif)
-
 # How [→](/how/)
 The Sparkbox Apprenticeship is comprised of a [curriculum](/topics/) supplemented by a regular schedule of: pairing with full-time Sparkboxers, pairing with other apprentices, journal writing, informal and formal reviews which include short presentations. **[More How](/how/)**
 
 # Apply and Learn More
 Interesting in getting involved? [It’s all here](http://apprentices.seesparkbox.com/).
+
+![Internet is Exciting!](http://www.reactiongifs.com/r/2012/11/f297L1.gif)
