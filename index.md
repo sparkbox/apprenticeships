@@ -31,7 +31,10 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 
 **Additional Resources:**
 
-* [Explain Shell](http://www.explainshell.com)
+* [Explain Shell][]
+* [From Zero to Hero with Dotfiles: Pt 1][]
+* [From Zero to Hero with Dotfiles: Pt 2][]
+* [40 Terminal Tips & Tricks][]
 * [Practical Object Oriented Programming in Ruby][] (“sb-bookshelf” in Dropbox)
 * [Learn the Command Line the Hard Way][]
 * [Learn Ruby the Hard Way][]
@@ -162,6 +165,9 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 [Rails Recipes]: http://pragprog.com/book/fr_rr/rails-recipes
 [Rails Test Prescriptions]: http://pragprog.com/book/nrtest/rails-test-prescriptions
 [Code school: Rails Best Practices]: https://www.codeschool.com/courses/rails-best-practices
-[TryJasmine]:http://tryjasmine.com/
-[Treehouse]:http://teamtreehouse.com/
-
+[TryJasmine]: http://tryjasmine.com/
+[Treehouse]: http://teamtreehouse.com/
+[Explain Shell]: http://www.explainshell.com
+[From Zero to Hero with Dotfiles: Pt 1]: http://code.tutsplus.com/tutorials/setting-up-a-mac-dev-machine-from-zero-to-hero-with-dotfiles--net-35449
+[From Zero to Hero with Dotfiles: Pt 2]: http://code.tutsplus.com/tutorials/setting-up-a-mac-dev-machine-from-zero-to-hero-with-dotfiles-part-2--cms-23145
+[40 Terminal Tips & Tricks]: http://computers.tutsplus.com/tutorials/40-terminal-tips-and-tricks-you-never-thought-you-needed--mac-51192
