@@ -12,8 +12,8 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 **Training:**
 
 * [CodeSchool: Try Git][]
-* [CodeSchool: Git Real 2][]
 * [CodeSchool: Git Real][]
+* [CodeSchool: Git Real 2][] - Levels 1, 2, 4, 6
 * [More Git][]: more Git practice
 * [CodeSchool: Try Ruby][]
 * [Ruby koans][]: let's start learning Ruby
