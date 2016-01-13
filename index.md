@@ -16,7 +16,6 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 * [CodeSchool: Git Real][]
 * [More Git][]: more Git practice
 * [CodeSchool: Try Ruby][]
-* [Ruby setup][]: set up your machine for running Ruby
 * [Ruby koans][]: let's start learning Ruby
 * [CodeSchool: Ruby Bits 1][]
 * [CodeSchool: Ruby Bits 2][]
@@ -124,8 +123,7 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 [CodeSchool: Git Real]: http://www.codeschool.com/courses/git-real
 [CodeSchool: Try Ruby]: http://tryruby.org/
 [More Git]: projects/proj-more-git.md
-[Ruby setup]: projects/proj-ruby-setup.md
-[Ruby koans]: http://rubykoans.com/windows
+[Ruby koans]: http://rubykoans.com/
 [Learn Ruby the Hard Way]: http://ruby.learncodethehardway.org/book/
 [Why's Poignant Guide to Ruby]: http://cloud.github.com/downloads/mislav/poignant-guide/whys-poignant-guide-to-ruby.pdf
 [Apprenticeship Patterns]: http://chimera.labs.oreilly.com/books/1234000001813/index.html
