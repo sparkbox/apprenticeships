@@ -62,8 +62,8 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 **Training:**
 
 * Introduction to frontend project
-* [CodeSchool: Functional HTML5 & CSS3][]
-* [CodeSchool: HTML5 & CSS3 Updates Screencast][]
+* [CodeSchool: Front-end Foudnations][]: Level 2, Level 3, Level 5
+* [CodeSchool: Front-end Formations][]
 * [CodeSchool: CSS Cross-Country][]
 * Frontend project style prototype review
 * Frontend project HTML review
@@ -145,8 +145,8 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 [CodeSchool: Rails for Zombies 1 (Redux)]: http://www.codeschool.com/courses/rails-for-zombies-redux
 [CodeSchool: Rails for Zombies 2]: http://www.codeschool.com/courses/rails-for-zombies-2
 [CodeSchool: Rails Testing for Zombies]: http://www.codeschool.com/courses/rails-testing-for-zombies
-[CodeSchool: Functional HTML5 & CSS3]: https://www.codeschool.com/courses/functional-html5-css3
-[CodeSchool: HTML5 & CSS3 Updates Screencast]: https://www.codeschool.com/code_tv/html5-css3-updates
+[CodeSchool: Front-end Foundations]: https://www.codeschool.com/courses/front-end-foundations
+[CodeSchool: Front-end Formations]: https://www.codeschool.com/courses/front-end-formations
 [CodeSchool: CSS Cross-Country]: https://www.codeschool.com/courses/css-cross-country
 [CodeSchool: Assembling Sass]: https://www.codeschool.com/courses/assembling-sass
 [CodeSchool: Assembling Sass Part 2]: https://www.codeschool.com/courses/assembling-sass-part-2
