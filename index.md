@@ -62,7 +62,7 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 **Training:**
 
 * Introduction to frontend project
-* [CodeSchool: Front-end Foudnations][]: Level 2, Level 3, Level 5
+* [CodeSchool: Front-end Foundations][]: Level 2, Level 3, Level 5
 * [CodeSchool: Front-end Formations][]
 * [CodeSchool: CSS Cross-Country][]
 * Frontend project style prototype review
