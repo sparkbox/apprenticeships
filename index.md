@@ -86,6 +86,7 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 **Additional Resources:**
 
 * [TryJasmine][]
+* [A Dao of Web Design](http://alistapart.com/article/dao), John Allsopp
 
 ## Phase 3 - *MVC Frameworks, Databases, and Personal Projects*
 
