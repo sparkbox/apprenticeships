@@ -51,6 +51,7 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 * [Responsive Web Design][], Ethan Marcotte
 * [Mobile First][], Luke Wroblewski
 * [Design is a Job][], Mike Monteiro
+* [Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents/), Brad Frost
 
 **Ongoing Programming Projects:**
 
