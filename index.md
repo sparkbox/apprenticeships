@@ -62,31 +62,36 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 
 **Training:**
 
-* Introduction to frontend project
-* [CodeSchool: Front-end Foundations][]: Level 2, Level 3, Level 5
+* Frontend Project: Introduction
+* [CodeSchool: Front-end Foundations][]
 * [CodeSchool: Front-end Formations][]
 * [CodeSchool: CSS Cross-Country][]
-* Frontend project style prototype review
-* Frontend project HTML review
-* Frontend project CSS review
+* Frontend Project - Review: Style Prototype
+* Frontend Project - Review: HTML
+* Frontend Project - Review: CSS
 * [CodeSchool: Assembling Sass][]
 * [CodeSchool: Assembling Sass Part 2][]
-* Introduction to Compass
-* Frontend project Sass review (CSS to be rewritten)
+* Frontend Project - Review: Sass
+  - Rewrite your CSS :art:
 * [CodeSchool: Journey Into Mobile][]
-* Frontend project RWD practices review (CSS to be rewritten)
+* Frontend Project - Review: Responsive Web Design (RWD)
+  - Rewrite your CSS :art:
 * [CodeAcademy: Introduction to JavaScript][]
 * Introduction to Jasmine
 * [FizzBuzz Kata - Javascript][] *with unit tests*
-* [CodeSchool: CoffeeScript][]
-* [CodeSchool: jQuery Air: First Flight][]
-* [CodeSchool: jQuery Air: Captain's Log][]
-* Frontend project JavaScript review (CSS to be rewritten)
-* Frontend project final review and launch!
+* [Javascript Road Trip Part I](https://www.codeschool.com/courses/javascript-road-trip-part-1)
+* [Javascript Road Trip Part II](https://www.codeschool.com/courses/javascript-road-trip-part-2)
+* [Optional: Javascript Road Trip Part III](https://www.codeschool.com/courses/javascript-road-trip-part-3)
+* Frontend Project - Review: JavaScript
+  - Rewrite your CSS :art:
+* Frontend Project: Final review & LAUNCH :rocket:
 
 **Additional Resources:**
 
 * [A Dao of Web Design](http://alistapart.com/article/dao), John Allsopp
+* [Javascript Koans](https://github.com/mrdavidlaing/javascript-koans)
+* [CodeSchool: JavaScript Best Practices](https://www.codeschool.com/courses/javascript-best-practices)
+
 ## Phase 3 - *MVC Frameworks, Databases, and Personal Projects*
 
 **Reading:**
