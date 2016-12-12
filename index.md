@@ -46,11 +46,11 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 
 **Reading:**
 
+* [A Dao of Web Design](http://alistapart.com/article/dao), John Allsopp
 * [HTML5 for Web Designers][], Jeremy Keith
 * [CSS3 for Web Designers][], Dan Cederholm
 * [Responsive Web Design][], Ethan Marcotte
 * [Mobile First][], Luke Wroblewski
-* [Design is a Job][], Mike Monteiro
 * [Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents/), Brad Frost
 
 **Ongoing Programming Projects:**
@@ -88,9 +88,10 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 
 **Additional Resources:**
 
-* [A Dao of Web Design](http://alistapart.com/article/dao), John Allsopp
+* [Design is a Job][], Mike Monteiro
 * [Javascript Koans](https://github.com/mrdavidlaing/javascript-koans)
 * [CodeSchool: JavaScript Best Practices](https://www.codeschool.com/courses/javascript-best-practices)
+* [Advanced JS Fundamentals by Mozilla Developer Network](https://github.com/mdn/advanced-js-fundamentals-ck)
 
 ## Phase 3 - *MVC Frameworks, Databases, and Personal Projects*
 
