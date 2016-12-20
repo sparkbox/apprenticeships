@@ -62,29 +62,33 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 
 **Training:**
 
+###### Frontend Project
 * Frontend Project: Introduction
 * [CodeSchool: Front-end Foundations][]
 * [CodeSchool: Front-end Formations][]
 * [CodeSchool: CSS Cross-Country][]
-* Frontend Project - Review: Style Prototype
 * Frontend Project - Review: HTML
+  - [CodePen](http://codepen.io/)
 * Frontend Project - Review: CSS
+  - [CodePen](http://codepen.io/)
 * [CodeSchool: Assembling Sass][]
 * [CodeSchool: Assembling Sass Part 2][]
 * Frontend Project - Review: Sass
   - Rewrite your CSS :art:
-* [CodeSchool: Journey Into Mobile][]
+  - [CodePen](http://codepen.io/)
 * Frontend Project - Review: Responsive Web Design (RWD)
   - Rewrite your CSS :art:
+* Frontend Project: Final review & LAUNCH :rocket:
+* *Extra Credit: [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz) in CSS on [CodePen](http://codepen.io/)*
+
+###### JavaScript
 * [CodeAcademy: Introduction to JavaScript][]
-* Introduction to Jasmine
 * [FizzBuzz Kata - Javascript][] *with unit tests*
 * [Javascript Road Trip Part I](https://www.codeschool.com/courses/javascript-road-trip-part-1)
 * [Javascript Road Trip Part II](https://www.codeschool.com/courses/javascript-road-trip-part-2)
 * [Optional: Javascript Road Trip Part III](https://www.codeschool.com/courses/javascript-road-trip-part-3)
-* Frontend Project - Review: JavaScript
-  - Rewrite your CSS :art:
-* Frontend Project: Final review & LAUNCH :rocket:
+* JavaScript Mini Project :coffee:
+
 
 **Additional Resources:**
 
