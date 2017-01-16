@@ -96,6 +96,8 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 * [Javascript Koans](https://github.com/mrdavidlaing/javascript-koans)
 * [CodeSchool: JavaScript Best Practices](https://www.codeschool.com/courses/javascript-best-practices)
 * [Advanced JS Fundamentals by Mozilla Developer Network](https://github.com/mdn/advanced-js-fundamentals-ck)
+* [HTTP: The Protocol Every Web Developer Must Know - Part 1][]
+* [HTTP: The Protocol Every Web Developer Must Know - Part 2][]
 
 ## Phase 3 - *MVC Frameworks, Databases, and Personal Projects*
 
@@ -124,6 +126,7 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 * [Crafting Rails Applications][]
 * [Rails Recipes][]
 * [Rails Test Prescriptions][]
+* [Udacity Client-Server Communication][]
 
 [Getting Real]: http://gettingreal.37signals.com/
 [Passionate Programmer]: http://www.amazon.com/The-Passionate-Programmer-Remarkable-Development/dp/1934356344
@@ -174,3 +177,6 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 [From Zero to Hero with Dotfiles: Pt 1]: http://code.tutsplus.com/tutorials/setting-up-a-mac-dev-machine-from-zero-to-hero-with-dotfiles--net-35449
 [From Zero to Hero with Dotfiles: Pt 2]: http://code.tutsplus.com/tutorials/setting-up-a-mac-dev-machine-from-zero-to-hero-with-dotfiles-part-2--cms-23145
 [40 Terminal Tips & Tricks]: http://computers.tutsplus.com/tutorials/40-terminal-tips-and-tricks-you-never-thought-you-needed--mac-51192
+[HTTP: The Protocol Every Web Developer Must Know - Part 1]: https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177
+[HTTP: The Protocol Every Web Developer Must Know - Part 2]: https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155
+[Udacity Client-Server Communication]: https://www.udacity.com/course/client-server-communication--ud897
