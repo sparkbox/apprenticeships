@@ -34,6 +34,7 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 * [From Zero to Hero with Dotfiles: Pt 1][]
 * [From Zero to Hero with Dotfiles: Pt 2][]
 * [40 Terminal Tips & Tricks][]
+* [Git Cheat Sheet][]
 * [Practical Object Oriented Programming in Ruby][] (“sb-bookshelf” in Dropbox)
 * [Learn the Command Line the Hard Way][]
 * [Learn Ruby the Hard Way][]
@@ -171,3 +172,4 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 [From Zero to Hero with Dotfiles: Pt 1]: http://code.tutsplus.com/tutorials/setting-up-a-mac-dev-machine-from-zero-to-hero-with-dotfiles--net-35449
 [From Zero to Hero with Dotfiles: Pt 2]: http://code.tutsplus.com/tutorials/setting-up-a-mac-dev-machine-from-zero-to-hero-with-dotfiles-part-2--cms-23145
 [40 Terminal Tips & Tricks]: http://computers.tutsplus.com/tutorials/40-terminal-tips-and-tricks-you-never-thought-you-needed--mac-51192
+[Git Cheat Sheet]: https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
