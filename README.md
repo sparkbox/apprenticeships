@@ -20,7 +20,7 @@ We'll start with a philosophy of learning - we want you to get the most out of y
 
 ### Apply
 
-If you're [local][] (or want to be for 6 months), we invite you to take on a full-fledged apprenticeship in our office. We run the 6-month program once per year. You'll get a seat right in the middle of our office, and hands-on training in a real web shop. Go ahead! [Submit an Application][].
+If you're [local][] to Dayton, Ohio (or want to be for 6 months), we invite you to take on a full-fledged apprenticeship in our office. We run the 6-month program once per year. You'll get a seat right in the middle of our office, and hands-on training in a real web shop. Go ahead! [Submit an Application][].
 
 Otherwise, this guide should provide you with everything you need to get started on your own.
 
