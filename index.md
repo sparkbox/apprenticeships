@@ -86,7 +86,6 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 
 **Additional Resources:**
 
-* [TryJasmine][]
 * [A Dao of Web Design](http://alistapart.com/article/dao), John Allsopp
 
 ## Phase 3 - *MVC Frameworks, Databases, and Personal Projects*
@@ -165,7 +164,6 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 [Rails Recipes]: http://pragprog.com/book/fr_rr/rails-recipes
 [Rails Test Prescriptions]: http://pragprog.com/book/nrtest/rails-test-prescriptions
 [Code school: Rails Best Practices]: https://www.codeschool.com/courses/rails-best-practices
-[TryJasmine]: http://tryjasmine.com/
 [Treehouse]: http://teamtreehouse.com/
 [Explain Shell]: http://www.explainshell.com
 [From Zero to Hero with Dotfiles: Pt 1]: http://code.tutsplus.com/tutorials/setting-up-a-mac-dev-machine-from-zero-to-hero-with-dotfiles--net-35449
