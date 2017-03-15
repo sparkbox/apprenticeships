@@ -140,7 +140,7 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 [CodeSchool: Ruby Bits 1]: http://www.codeschool.com/courses/ruby-bits
 [CodeSchool: Ruby Bits 2]: http://www.codeschool.com/courses/ruby-bits-part-2
 [CodeSchool: Testing with RSpec]: https://www.codeschool.com/courses/testing-with-rspec
-[Triangle Kata - Ruby]: http://onestepback.org/vital_testing/
+[Triangle Kata - Ruby]: http://web.archive.org/web/20140119031248/http://onestepback.org/vital_testing/
 [Game of Life Kata - Ruby]: https://github.com/garora/TDD-Katas#game-of-life-
 [Ruby Warriors]: https://www.bloc.io/ruby-warrior/#/
 [HTML5 for Web Designers]: http://www.abookapart.com/products/html5-for-web-designers
