@@ -34,6 +34,7 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 * [From Zero to Hero with Dotfiles: Pt 1][]
 * [From Zero to Hero with Dotfiles: Pt 2][]
 * [40 Terminal Tips & Tricks][]
+* [Git Cheat Sheet][]
 * [Practical Object Oriented Programming in Ruby][] (“sb-bookshelf” in Dropbox)
 * [Learn the Command Line the Hard Way][]
 * [Learn Ruby the Hard Way][]
@@ -180,3 +181,4 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 [HTTP: The Protocol Every Web Developer Must Know - Part 1]: https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177
 [HTTP: The Protocol Every Web Developer Must Know - Part 2]: https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155
 [Udacity Client-Server Communication]: https://www.udacity.com/course/client-server-communication--ud897
+[Git Cheat Sheet]: https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
