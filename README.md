@@ -1,3 +1,7 @@
+---
+title: Readme
+layout: default
+---
 **Disclaimer:** *This guide is under construction. We are slowly translating our Sparkbox apprenticeship content into a useful format here on GitHub.*
 
 # Sparkbox Apprenticeship Guide
