@@ -93,6 +93,7 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 * [Javascript Road Trip Part II](https://www.codeschool.com/courses/javascript-road-trip-part-2)
 * [Optional: Javascript Road Trip Part III](https://www.codeschool.com/courses/javascript-road-trip-part-3)
 * JavaScript Mini Project :coffee:
+* [Learning JavaScript Design Patterns][]
 
 **Additional Resources:**
 
@@ -187,3 +188,4 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 [git cheat sheet]: https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
 [learn git branching]: https://learngitbranching.js.org/
 [principles wiki]: http://www.principles-wiki.net/
+[learning javascript design patterns]: https://addyosmani.com/resources/essentialjsdesignpatterns/book/
