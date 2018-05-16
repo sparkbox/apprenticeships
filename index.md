@@ -14,6 +14,7 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 * [CodeSchool: Try Git][]
 * [CodeSchool: Git Real][]
 * [CodeSchool: Git Real 2][]
+* [Learn Git Branching][]: Learn Git visually and interactively
 * [More Git][]: more Git practice
 * [CodeSchool: Try Ruby][]
 * [Ruby koans][]: let's start learning Ruby
@@ -183,3 +184,4 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 [http: the protocol every web developer must know - part 2]: https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155
 [udacity client-server communication]: https://www.udacity.com/course/client-server-communication--ud897
 [git cheat sheet]: https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
+[learn git branching]: https://learngitbranching.js.org/
