@@ -47,20 +47,20 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 
 **Reading:**
 
-* [A Dao of Web Design](http://alistapart.com/article/dao), John Allsopp
+* [A Dao of Web Design][], John Allsopp
 * [HTML5 for Web Designers][], Jeremy Keith
 * [CSS3 for Web Designers][], Dan Cederholm
 * [Responsive Web Design][], Ethan Marcotte
 * [Mobile First][], Luke Wroblewski
-* [Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents/), Brad Frost
-* [BEM by Example](https://seesparkbox.com/foundry/bem_by_example), Nathan Rambeck
+* [Atomic Design][], Brad Frost
+* [BEM by Example][], Nathan Rambeck
 
 **Ongoing Programming Projects:**
 
 * [Game of Life Kata - Ruby][]
 * [FizzBuzz Kata - Ruby][]
 * [Bowling Kata - Ruby][]
-* [Tic-tac-toe Kata - Ruby](https://gist.github.com/dlresende/dc57f506e1ab1de7e7df)
+* [Tic-tac-toe Kata - Ruby][]
 
 **Training:**
 
@@ -69,17 +69,17 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
   * [CodeSchool: Front-end Foundations][]
   * [CodeSchool: Front-end Formations][]
   * [CodeSchool: CSS Cross-Country][]
-  * Set up a [CodePen](http://codepen.io/) profile.
+  * Set up a [CodePen][] profile.
 * Week 1: HTML
 * Week 2: CSS
   * Finish reading [Responsive Web Design][] by Ethan Marcotte
 * Week 3: Layout
-  * Finish [BEM by Example](https://seesparkbox.com/foundry/bem_by_example) by Nathan Rambeck
+  * Finish [BEM by Example][] by Nathan Rambeck
 * Week 4: BEM + SVG
   * [CodeSchool: Assembling Sass][]
   * [CodeSchool: Assembling Sass Part 2][]
 * Week 5: Sass
-* *Extra Credit: [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz) in CSS on [CodePen](http://codepen.io/)*
+* *Extra Credit: [FizzBuzz][] in CSS on [CodePen][]*
 
 ##### Career Preparedness Workshop
 
@@ -94,17 +94,17 @@ Over 4 weeks, we cover the following using both lecture and hands on activities:
 ##### JavaScript
 * [CodeAcademy: Introduction to JavaScript][]
 * [FizzBuzz Kata - Javascript][] *with unit tests*
-* [Javascript Road Trip Part I](https://www.codeschool.com/courses/javascript-road-trip-part-1)
-* [Javascript Road Trip Part II](https://www.codeschool.com/courses/javascript-road-trip-part-2)
-* [Optional: Javascript Road Trip Part III](https://www.codeschool.com/courses/javascript-road-trip-part-3)
+* [Javascript Road Trip Part I][]
+* [Javascript Road Trip Part II][]
+* [Optional: Javascript Road Trip Part III][]
 * JavaScript Mini Project :coffee:
 
 **Additional Resources:**
 
 * [Design is a Job][], Mike Monteiro
-* [Javascript Koans](https://github.com/mrdavidlaing/javascript-koans)
-* [CodeSchool: JavaScript Best Practices](https://www.codeschool.com/courses/javascript-best-practices)
-* [Advanced JS Fundamentals by Mozilla Developer Network](https://github.com/mdn/advanced-js-fundamentals-ck)
+* [Javascript Koans][]
+* [CodeSchool: JavaScript Best Practices][]
+* [Advanced JS Fundamentals by Mozilla Developer Network][]
 * [HTTP: The Protocol Every Web Developer Must Know - Part 1][]
 * [HTTP: The Protocol Every Web Developer Must Know - Part 2][]
 
@@ -121,7 +121,7 @@ Over 4 weeks, we cover the following using both lecture and hands on activities:
 * [CodeSchool: Rails for Zombies 1 (Redux)][]
 * [CodeSchool: Rails for Zombies 2][]
 * [CodeSchool: Rails Testing for Zombies][]
-* [CodeSchool: Rails Patterns](https://www.codeschool.com/courses/rails-4-patterns)
+* [CodeSchool: Rails Patterns][]
 * Set up a rails application environment from scratch *(this will be done multiple times and potentially with a variety of requirements)*.
 * Intro to database models
 * Create a to-do app
@@ -190,3 +190,17 @@ Over 4 weeks, we cover the following using both lecture and hands on activities:
 [HTTP: The Protocol Every Web Developer Must Know - Part 2]: https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155
 [Udacity Client-Server Communication]: https://www.udacity.com/course/client-server-communication--ud897
 [Git Cheat Sheet]: https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
+[CodeSchool: Rails Patterns]: https://www.codeschool.com/courses/rails-4-patterns
+[CodePen]: http://codepen.io/
+[A Dao of Web Design]: http://alistapart.com/article/dao
+[Atomic Design]: http://atomicdesign.bradfrost.com/table-of-contents/
+[BEM by Example]: https://seesparkbox.com/foundry/bem_by_example
+[Tic-tac-toe Kata - Ruby]: https://gist.github.com/dlresende/dc57f506e1ab1de7e7df
+[FizzBuzz]: https://en.wikipedia.org/wiki/Fizz_buzz
+[Javascript Road Trip Part I]: https://www.codeschool.com/courses/javascript-road-trip-part-1
+[Javascript Road Trip Part II]: https://www.codeschool.com/courses/javascript-road-trip-part-2
+[Optional: Javascript Road Trip Part III]: https://www.codeschool.com/courses/javascript-road-trip-part-3
+[Javascript Koans]: https://github.com/mrdavidlaing/javascript-koans
+[CodeSchool: JavaScript Best Practices]: https://www.codeschool.com/courses/javascript-best-practices
+[Advanced JS Fundamentals by Mozilla Developer Network]: https://github.com/mdn/advanced-js-fundamentals-ck
+[CodeSchool: Rails Patterns]: https://www.codeschool.com/courses/rails-4-patterns
