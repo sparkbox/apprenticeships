@@ -53,6 +53,7 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 * [Responsive Web Design][], Ethan Marcotte
 * [Mobile First][], Luke Wroblewski
 * [Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents/), Brad Frost
+* [BEM by Example](https://seesparkbox.com/foundry/bem_by_example), Nathan Rambeck
 
 **Ongoing Programming Projects:**
 
@@ -63,23 +64,21 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 
 **Training:**
 
-###### Frontend Project
-* Frontend Project: Introduction
-* [CodeSchool: Front-end Foundations][]
-* [CodeSchool: Front-end Formations][]
-* [CodeSchool: CSS Cross-Country][]
-* Frontend Project - Review: HTML
-  - [CodePen](http://codepen.io/)
-* Frontend Project - Review: CSS
-  - [CodePen](http://codepen.io/)
-* [CodeSchool: Assembling Sass][]
-* [CodeSchool: Assembling Sass Part 2][]
-* Frontend Project - Review: Sass
-  - Rewrite your CSS :art:
-  - [CodePen](http://codepen.io/)
-* Frontend Project - Review: Responsive Web Design (RWD)
-  - Rewrite your CSS :art:
-* Frontend Project: Final review & LAUNCH :rocket:
+###### [Frontend Project](projects/proj-event-cards.md)
+* Week 0: Prep
+  * [CodeSchool: Front-end Foundations][]
+  * [CodeSchool: Front-end Formations][]
+  * [CodeSchool: CSS Cross-Country][]
+  * Set up a [CodePen](http://codepen.io/) profile.
+* Week 1: HTML
+* Week 2: CSS
+  * Finish reading [Responsive Web Design][] by Ethan Marcotte
+* Week 3: Layout
+  * Finish [BEM by Example](https://seesparkbox.com/foundry/bem_by_example) by Nathan Rambeck
+* Week 4: BEM + SVG
+  * [CodeSchool: Assembling Sass][]
+  * [CodeSchool: Assembling Sass Part 2][]
+* Week 5: Sass
 * *Extra Credit: [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz) in CSS on [CodePen](http://codepen.io/)*
 
 ###### JavaScript
@@ -89,7 +88,6 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 * [Javascript Road Trip Part II](https://www.codeschool.com/courses/javascript-road-trip-part-2)
 * [Optional: Javascript Road Trip Part III](https://www.codeschool.com/courses/javascript-road-trip-part-3)
 * JavaScript Mini Project :coffee:
-
 
 **Additional Resources:**
 
