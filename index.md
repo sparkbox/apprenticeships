@@ -107,6 +107,7 @@ Over 4 weeks, we cover the following using both lecture and hands on activities:
 * [Advanced JS Fundamentals by Mozilla Developer Network][]
 * [HTTP: The Protocol Every Web Developer Must Know - Part 1][]
 * [HTTP: The Protocol Every Web Developer Must Know - Part 2][]
+* [A cartoon intro to DNS over HTTPS by Lin Clark][]
 
 ## Phase 3 - *MVC Frameworks, Databases, and Personal Projects*
 
@@ -204,3 +205,4 @@ Over 4 weeks, we cover the following using both lecture and hands on activities:
 [CodeSchool: JavaScript Best Practices]: https://www.codeschool.com/courses/javascript-best-practices
 [Advanced JS Fundamentals by Mozilla Developer Network]: https://github.com/mdn/advanced-js-fundamentals-ck
 [CodeSchool: Rails Patterns]: https://www.codeschool.com/courses/rails-4-patterns
+[A cartoon intro to DNS over HTTPS by Lin Clark]: https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https/
