@@ -102,6 +102,7 @@ Over 4 weeks, we cover the following using both lecture and hands on activities:
 - [Javascript Road Trip Part II][]
 - [Optional: Javascript Road Trip Part III][]
 - JavaScript Mini Project :coffee:
+- [Learning JavaScript Design Patterns][]
 
 **Additional Resources:**
 
@@ -199,6 +200,7 @@ Over 4 weeks, we cover the following using both lecture and hands on activities:
 [git cheat sheet]: https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
 [learn git branching]: https://learngitbranching.js.org/
 [principles wiki]: http://www.principles-wiki.net/
+[learning javascript design patterns]: https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 [codeschool: rails patterns]: https://www.codeschool.com/courses/rails-4-patterns
 [codepen]: http://codepen.io/
 [a dao of web design]: http://alistapart.com/article/dao
