@@ -147,6 +147,8 @@ Over 4 weeks, we cover the following using both lecture and hands on activities:
 [codeschool: git real 2]: https://www.codeschool.com/courses/git-real-2
 [codeschool: git real]: http://www.codeschool.com/courses/git-real
 [codeschool: try ruby]: http://tryruby.org/
+
+[Learn Git Branching][]: Learn Git visually and interactively
 [more git]: projects/proj-more-git.md
 [ruby koans]: http://rubykoans.com/
 [learn ruby the hard way]: http://ruby.learncodethehardway.org/book/
@@ -194,6 +196,7 @@ Over 4 weeks, we cover the following using both lecture and hands on activities:
 [http: the protocol every web developer must know - part 2]: https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155
 [udacity client-server communication]: https://www.udacity.com/course/client-server-communication--ud897
 [git cheat sheet]: https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
+[learn git branching]: https://learngitbranching.js.org/
 [codeschool: rails patterns]: https://www.codeschool.com/courses/rails-4-patterns
 [codepen]: http://codepen.io/
 [a dao of web design]: http://alistapart.com/article/dao
