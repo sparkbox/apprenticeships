@@ -42,6 +42,7 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 - [Apprenticeship Patterns][]
 - Practical Vim ("sb-bookshelf" in Dropbox)
 - [Treehouse][]
+- [Principles Wiki][]: Study software design principles
 
 ## Phase 2 - _Frontend Development: Markup, Style, Interaction, and Preprocessing_
 
@@ -197,6 +198,7 @@ Over 4 weeks, we cover the following using both lecture and hands on activities:
 [udacity client-server communication]: https://www.udacity.com/course/client-server-communication--ud897
 [git cheat sheet]: https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
 [learn git branching]: https://learngitbranching.js.org/
+[principles wiki]: http://www.principles-wiki.net/
 [codeschool: rails patterns]: https://www.codeschool.com/courses/rails-4-patterns
 [codepen]: http://codepen.io/
 [a dao of web design]: http://alistapart.com/article/dao
