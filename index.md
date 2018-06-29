@@ -1,5 +1,8 @@
 [← Back to README](/README.md)
 
+
+# PRACTICE GIT
+
 The Sparkbox Apprenticeship is loosely separated into three phases. Completing a phase provides a clear checkpoint for review, reflection, and closure.
 
 ## Phase 1 - *Source Control and Programming Basics*
