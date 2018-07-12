@@ -59,7 +59,7 @@ From this point forward, you'll be expected to use BEM for any CSS and HTML you 
 Spend some time playing with images or SVGs. Fork and update your event card to use either an SVG icon (Next to your address or phone number is nice, or whatever you like) OR update your images to use `srcset`.
 
 #### Personal Websites
-It's about the time in your apprenticeship when you should be looking to find a permanent web development role (if you are interested in that sort of thing). In your [career prep sessions](../index.md#career-preparedness), you've hopefully developed skills to help you improve your marketability. Spend some time reworking or redoing your personal websites, cleaning up your git profiles, etc. We're here to help, so pair!  Remember to take advantage of pairing time not only with developers, but also with our wonderful Project Management, Content, and Design teams.
+It's about the time in your apprenticeship when you should be looking to find a permanent web development role (if you are interested in that sort of thing). In your [career prep sessions](../phases/x-job-prep.md), you've hopefully developed skills to help you improve your marketability. Spend some time reworking or redoing your personal websites, cleaning up your git profiles, etc. We're here to help, so pair!  Remember to take advantage of pairing time not only with developers, but also with our wonderful Project Management, Content, and Design teams.
 
 ## Week 5 - Sass
 
