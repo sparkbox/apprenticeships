@@ -7,8 +7,31 @@ Read these books and add a 100 - 200 word review to your weekly journal. This sh
 
 * [Getting Real][], 37signals
 * [Passionate Programmer][], Chad Fowler
+* [Pragmatic Programmer][],  Andrew Hunt & Dave Thomas
 
 #### **Training:**
+* Week 0: CLI & Command Line
+* Week 1: Git at Sparkbox
+  * ♫ "Shunting trucks and hauling freight" ♫
+* Week 2: Functional Programming
+  * Breaking a Problem Down by Breaking a Problem Down
+  * Reason Your Way to Fame and Fortune
+* Week 3: Object Oriented Programming
+  * "Mr. Watson, come here. I want to see you." --A. Bell
+  * Cells: The Building Blocks of Life!
+* Week 4: SOLID Principles
+  * You Can't Make All the Principles Happy All of the Time
+  * Use the Force
+* Week 5: Testing
+  * "Weeks of programming can save you hours of planning"
+  * Test After: Show Correctness
+  * Test Before: Show Intention
+  * Test to Drive Design: Show Up On Time While Being Intentionally Correct
+* Week 6: Introduce CLI Project
+* Week 7: Design Patterns
+  * You Mean There's a Name for What I Did?
+* Week 8: Evolving Your Design
+  * Dammit Jim, I'm a programmer not a philosopher...oh, wait
 
 * [CodeSchool: Try Git][]
 * [CodeSchool: Git Real][]
@@ -46,6 +69,7 @@ Read these books and add a 100 - 200 word review to your weekly journal. This sh
 
 [Getting Real]: http://gettingreal.37signals.com/
 [Passionate Programmer]: http://www.amazon.com/The-Passionate-Programmer-Remarkable-Development/dp/1934356344
+[Pragmatic Programmer]: https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X
 
 [CodeSchool: Try Git]: http://www.codeschool.com/courses/try-git
 [CodeSchool: Git Real]: http://www.codeschool.com/courses/git-real
