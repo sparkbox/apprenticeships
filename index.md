@@ -17,12 +17,12 @@ In Phase three, developers have the opportunity to put their newly acquired skil
 
 [See the Phase 3 Curriculum →][]
 
-### Phase "X" - *Career Preparedness Workshops*
-Phase "X" is a bonus, four-week workshop designed to teach apprentices how to highlight their strengths, and how to approach the job market of the web industry.
+### Phase - *Job Preparedness Workshops*
+The Job Preparedness phase is a bonus, five-week workshop designed to teach apprentices how to highlight their strengths, and how to approach the job market of the web industry.
 
-[See the Phase X Curriculum →][]
+[See the Job Preparedness Curriculum →][]
 
 [See the Phase 1 Curriculum →]: phases/1-programming.md
 [See the Phase 2 Curriculum →]: phases/2-frontend.md
 [See the Phase 3 Curriculum →]: phases/3-project.md
-[See the Phase X Curriculum →]: phases/x-job-prep.md
+[See the Job Preparedness Curriculum →]: phases/job-preparedness.md
