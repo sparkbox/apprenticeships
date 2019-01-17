@@ -2,99 +2,78 @@
 
 # Phase 1 - *Source Control and Programming Basics*
 
-#### **Reading:**
-Read these books and add a 100 - 200 word review to your weekly journal. This should be a brief summary with your biggest applicable takeaway.
-
-* [Getting Real][], 37signals
-* [Passionate Programmer][], Chad Fowler
-* [Pragmatic Programmer][],  Andrew Hunt & Dave Thomas
 
 #### **Training:**
 * Week 0: CLI & Command Line
+  * Create a bash dotfile
+  * Create at least 5 bash customizations (aliases, functions, etc.)
+  * Learn ["Command Line the Hard Way"](https://learnpythonthehardway.org/book/appendixa.html)
+  * [From Zero to Hero with Dotfiles](https://code.tutsplus.com/tutorials/setting-up-a-mac-dev-machine-from-zero-to-hero-with-dotfiles--net-35449)
+  * Read ["Wizard Zines"](https://wizardzines.com) by Julia Evans
+    * Bite Size Linux
+    * Bize Size Command Line
+    * Any others you are interested in: they're all good
+
 * Week 1: Git at Sparkbox
-  * ♫ "Shunting trucks and hauling freight" ♫
-* Week 2: Functional Programming
-  * Breaking a Problem Down by Breaking a Problem Down
-  * Reason Your Way to Fame and Fortune
-* Week 3: Object Oriented Programming
-  * "Mr. Watson, come here. I want to see you." --A. Bell
-  * Cells: The Building Blocks of Life!
-* Week 4: SOLID Principles
-  * You Can't Make All the Principles Happy All of the Time
-  * Use the Force
-* Week 5: Testing
-  * "Weeks of programming can save you hours of planning"
-  * Test After: Show Correctness
-  * Test Before: Show Intention
-  * Test to Drive Design: Show Up On Time While Being Intentionally Correct
-* Week 6: Introduce CLI Project
-* Week 7: Design Patterns
-  * You Mean There's a Name for What I Did?
-* Week 8: Evolving Your Design
-  * Dammit Jim, I'm a programmer not a philosopher...oh, wait
+  * Create a Dotfiles Repository on GitHub
+  * (Optional) Create a journal on Github
+  * Submit 1 Pull Request to a public Sparkbox Repository (or any other)
+  * Read ["Wizard Zines"](https://wizardzines.com) by Julia Evans
+    * Oh, Sh*t, git! (or "Oh, Dangit Git")
 
-* [CodeSchool: Try Git][]
-* [CodeSchool: Git Real][]
-* [CodeSchool: Git Real 2][]
-* [More Git][]: more Git practice
-* [CodeSchool: Try Ruby][]
-* [Ruby koans][]: let's start learning Ruby
-* [CodeSchool: Ruby Bits 1][]
-* [CodeSchool: Ruby Bits 2][]
-* [CodeSchool: Testing with RSpec][]
-* [Triangle Kata - Ruby][] *with test suite*
-* [Game of Life Kata - Ruby][] *with test suite*
-* Game of Life - Git: push your project to Github for review
-* Game of Life - Review: code review your project with your technical director
-* [Ruby Warriors][]
-* Game of Life - Refactor: implement changes discussed in review
+* Week 2: Explore Nodejs Ecosystem
+  * Gain familiarity w/ the Node.js philosophy
+    * Event Loop (single thread)
+    * UNIX philosophy (do one thing well)
+    * Event driven
+    * Others...
+  * Connect Nodejs to Chrome debugger
+  * Read "Node.js 8 the Right Way"
+    * Part 1
+    * Chapters 1 & 2
+  * Exercises from "Exercises for Programmers"
+    * Read Chapter 1
+    * Pick exercises to try from Chapter 8 (Working with Files)
+      * Create Repo for each exercise
+      * Submit unsquashed PRs (Sparkbox standard commits) for review
+  * [Use Chrome for debugging](https://nodejs.org/en/docs/guides/debugging-getting-started/)
 
-#### **Additional Resources:**
+* Week 3: Functional Programming
+  * Read Functional-Light JavaScript
+    * Chapters 1 & 8
+  * Read JavaScript Allonge
+    * Prelude
+  * "Exercises for Programmers"
+    * Pick exercises to try from Chapter 6 (Repetition)
+      * Create Repository for each exercise
+      * Submit unsquashed PRs (Sparkbox standard commits) for review
 
-* [Explain Shell][]
-* [From Zero to Hero with Dotfiles: Pt 1][]
-* [From Zero to Hero with Dotfiles: Pt 2][]
-* [40 Terminal Tips & Tricks][]
-* [Git Cheat Sheet][]
-* [Practical Object Oriented Programming in Ruby][] (“sb-bookshelf” in Dropbox)
-* [Learn the Command Line the Hard Way][]
-* [Learn Ruby the Hard Way][]
-* [Why's Poignant Guide to Ruby][]
-* [Apprenticeship Patterns][]
-* Practical Vim ("sb-bookshelf" in Dropbox)
-* [Treehouse][]
-* [Learn Git Branching][]: Learn Git visually and interactively
-* [Principles Wiki][]: Study software design principles
-* [Learning JavaScript Design Patterns][]
+* Week 4: Object Oriented Programming
+  * Read ThoughtWorks Anthology
+    * Chapter 6 (Object Calisthenics)
+  * Exercises from "Exercises for Programmers"
+    * Pick exercises to try
+      * Chapter 2 - Exercise 4: Mad Lib
+      * Chapter 4 - Exercise 23: Troubleshooting  Car Issues
+      * Create Repository for each exercise
+      * Submit unsquashed PRs (Sparkbox Standard Commits) for review
 
-[Getting Real]: http://gettingreal.37signals.com/
-[Passionate Programmer]: http://www.amazon.com/The-Passionate-Programmer-Remarkable-Development/dp/1934356344
-[Pragmatic Programmer]: https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X
+* Week 5: Test-Driven Development
+  * Read Nodejs the Right Way
+    * Chapter 5 "Transforming Data and Testing Continuously"
+  * Read Test Driving JavaScript Applications
+    * Introduction
+    * Automation Shall Set You Free
+    * Real-World Automated Testing: Test Drive Node.js Apps
+  * Refactoring, 2nd Edition
+    * Chapters 1 & 2
+  * Read [Mocking is a Code Smell](https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a)
+  * Read [Testing Yourself](https://michaelfeathers.silvrback.com/testing-yourself)
+* Week 6-8: OOP, Functional, TDD, Design Patterns
 
-[CodeSchool: Try Git]: http://www.codeschool.com/courses/try-git
-[CodeSchool: Git Real]: http://www.codeschool.com/courses/git-real
-[CodeSchool: Git Real 2]: https://www.codeschool.com/courses/git-real-2
-[More Git]: ../projects/proj-more-git.md
-[CodeSchool: Try Ruby]: http://tryruby.org/
-[Ruby koans]: http://rubykoans.com/
-[CodeSchool: Ruby Bits 1]: http://www.codeschool.com/courses/ruby-bits
-[CodeSchool: Ruby Bits 2]: http://www.codeschool.com/courses/ruby-bits-part-2
-[CodeSchool: Testing with RSpec]: https://www.codeschool.com/courses/testing-with-rspec
-[Triangle Kata - Ruby]: http://web.archive.org/web/20140119031248/http://onestepback.org/vital_testing/
-[Game of Life Kata - Ruby]: https://github.com/garora/TDD-Katas#game-of-life-
-[Ruby Warriors]: https://www.bloc.io/ruby-warrior/#/
-
-[Explain Shell]: http://www.explainshell.com
-[From Zero to Hero with Dotfiles: Pt 1]: http://code.tutsplus.com/tutorials/setting-up-a-mac-dev-machine-from-zero-to-hero-with-dotfiles--net-35449
-[From Zero to Hero with Dotfiles: Pt 2]: http://code.tutsplus.com/tutorials/setting-up-a-mac-dev-machine-from-zero-to-hero-with-dotfiles-part-2--cms-23145
-[40 Terminal Tips & Tricks]: http://computers.tutsplus.com/tutorials/40-terminal-tips-and-tricks-you-never-thought-you-needed--mac-51192
-[Git Cheat Sheet]: https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
-[Practical Object Oriented Programming in Ruby]: http://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330
-[Learn the Command Line the Hard Way]: http://cli.learncodethehardway.org/book/
-[Learn Ruby the Hard Way]: http://ruby.learncodethehardway.org/book/
-[Why's Poignant Guide to Ruby]: http://cloud.github.com/downloads/mislav/poignant-guide/whys-poignant-guide-to-ruby.pdf
-[Apprenticeship Patterns]: http://chimera.labs.oreilly.com/books/1234000001813/index.html
-[Treehouse]: http://teamtreehouse.com/
-[learn git branching]: https://learngitbranching.js.org/
-[principles wiki]: http://www.principles-wiki.net/
-[learning javascript design patterns]: https://addyosmani.com/resources/essentialjsdesignpatterns/book/
+  * Watch [Boundaries]( https://www.destroyallsoftware.com/talks/boundaries)
+  * Read Mastering JavaScript Object-Oriented Programming
+    * Chapter 11- SOLID Principles
+  * Read Principles of OOD (First 5 Principles)
+    * Do not get hung up on the examples
+  * Read Epigrams in Programming (for fun)
