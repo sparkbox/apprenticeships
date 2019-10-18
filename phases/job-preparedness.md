@@ -32,4 +32,5 @@ Over 5 weeks, we cover the following using both lecture and hands on activities 
       * An open hour to ask any lingering questions, and continue working on resumes, cover letters, applying for jobs, and their personal websites.
 
 #### **Resources:**
+* 
 * [How to Apply For a Web Developer Job at Tighten (and How Not to)](https://mattstauffer.com/blog/how-to-apply-for-a-web-developer-job-at-tighten-and-how-not-to/)
