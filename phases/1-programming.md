@@ -57,7 +57,6 @@ Read these books and add a 100 - 200 word review to your weekly journal. This sh
 * [40 Terminal Tips & Tricks][]
 * [Git Cheat Sheet][]
 * [Practical Object Oriented Programming in Ruby][] (“sb-bookshelf” in Dropbox)
-* [Learn the Command Line the Hard Way][]
 * [Learn Ruby the Hard Way][]
 * [Why's Poignant Guide to Ruby][]
 * [Apprenticeship Patterns][]
@@ -68,7 +67,7 @@ Read these books and add a 100 - 200 word review to your weekly journal. This sh
 * [Learning JavaScript Design Patterns][]
 
 [Getting Real]: http://gettingreal.37signals.com/
-[Passionate Programmer]: http://www.amazon.com/The-Passionate-Programmer-Remarkable-Development/dp/1934356344
+[Passionate Programmer]: https://www.amazon.com/Passionate-Programmer-Remarkable-Development-Pragmatic-ebook/dp/B00AYQNR5U
 [Pragmatic Programmer]: https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X
 
 [CodeSchool: Try Git]: http://www.codeschool.com/courses/try-git
@@ -88,12 +87,11 @@ Read these books and add a 100 - 200 word review to your weekly journal. This sh
 [From Zero to Hero with Dotfiles: Pt 1]: http://code.tutsplus.com/tutorials/setting-up-a-mac-dev-machine-from-zero-to-hero-with-dotfiles--net-35449
 [From Zero to Hero with Dotfiles: Pt 2]: http://code.tutsplus.com/tutorials/setting-up-a-mac-dev-machine-from-zero-to-hero-with-dotfiles-part-2--cms-23145
 [40 Terminal Tips & Tricks]: http://computers.tutsplus.com/tutorials/40-terminal-tips-and-tricks-you-never-thought-you-needed--mac-51192
-[Git Cheat Sheet]: https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
+[Git Cheat Sheet]: https://education.github.com/git-cheat-sheet-education.pdf
 [Practical Object Oriented Programming in Ruby]: http://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330
-[Learn the Command Line the Hard Way]: http://cli.learncodethehardway.org/book/
-[Learn Ruby the Hard Way]: http://ruby.learncodethehardway.org/book/
-[Why's Poignant Guide to Ruby]: http://cloud.github.com/downloads/mislav/poignant-guide/whys-poignant-guide-to-ruby.pdf
-[Apprenticeship Patterns]: http://chimera.labs.oreilly.com/books/1234000001813/index.html
+[Learn Ruby the Hard Way]: https://learnrubythehardway.org/book/
+[Why's Poignant Guide to Ruby]: https://poignant.guide/
+[Apprenticeship Patterns]: http://shop.oreilly.com/product/9780596518387.do
 [Treehouse]: http://teamtreehouse.com/
 [learn git branching]: https://learngitbranching.js.org/
 [principles wiki]: http://www.principles-wiki.net/
