@@ -26,3 +26,6 @@ The Job Preparedness phase is a bonus, five-week workshop designed to teach appr
 [See the Phase 2 Curriculum →]: phases/2-frontend.md
 [See the Phase 3 Curriculum →]: phases/3-project.md
 [See the Job Preparedness Curriculum →]: phases/job-preparedness.md
+
+#### Beginner's Guide for Web Development
+For additional resources check out gs [Beginner’s Guide for Web Development](https://corinneling.github.io/beginners-guide/), created by a former apprentice. Each section contains a brief summary of the subtopics, a helpful list of external resources, a small cheat sheet, and project prompts. 
