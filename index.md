@@ -17,12 +17,12 @@ In Phase three, developers have the opportunity to put their newly acquired skil
 
 [See the Phase 3 Curriculum →][]
 
-### Phase - *Job Preparedness Workshops*
-The Job Preparedness phase is a bonus, five-week workshop designed to teach apprentices how to highlight their strengths, and how to approach the job market of the web industry.
+### *Job Preparedness*
+Sparkbox considers our apprenticeship the pathway to hiring inexperienced developers. While there is no guarantee, our goal for the apprenticeship is to prepare individuals for a development career at Sparkbox.
+For those who are not a match or would like to find a position outside Sparkbox, we will make guidance and support available to all apprentices for interviews, resumes, cover letters, portfolio design, etc.
 
 [See the Job Preparedness Curriculum →][]
 
 [See the Phase 1 Curriculum →]: phases/1-programming.md
 [See the Phase 2 Curriculum →]: phases/2-frontend.md
 [See the Phase 3 Curriculum →]: phases/3-project.md
-[See the Job Preparedness Curriculum →]: phases/job-preparedness.md
